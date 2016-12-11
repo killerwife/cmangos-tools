@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+*.lib
+SpellDBCToSQL/SpellDBCToSQL.VC.db
+*.exp
+*.tlog
+*.pdb
+*.obj
+*.idb
+*.log
+*.exe
+*.ilk
+*.user
+*.filters
+*.vcxproj
