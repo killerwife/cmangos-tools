@@ -196,14 +196,15 @@ int main()
     std::string dbcPath = "dbc/";
     StoreProblemList bad_dbc_files;
 
-    const uint32 DBCFilesCount = 3;    
+    const uint32 DBCFilesCount = 1;    
 
     uint32 build = ReadDBCBuild(dbcPath);
 
     LocalData availableDbcLocalesWOTLK(build);
 
     BarGoLink bar(DBCFilesCount);
-    LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
+    //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
+    LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sDungeonEncounterStore, dbcPath, "DungeonEncounter.dbc");
 
     uint32 availableDbcLocales = 0xFFFFFFFF;
     //LoadDBC(availableDbcLocales, bar, bad_dbc_files, sSpellStoreTBC, dbcPath, "SpellTBC.dbc", false);
@@ -213,5 +214,6 @@ int main()
     DBCExport exporter;
     //exporter.ExportDBCToSQLClassic("spell_template_classic");
     //exporter.ExportDBCToSQLTBC("spell_template_tbc");
-    exporter.ExportDBCToSQLWotlk("spell_template_wotlk");
+    //exporter.ExportDBCToSQLWotlk("spell_template_wotlk");
+    exporter.ExportDungeonEncounters("dungeon_encounter_store");
 }

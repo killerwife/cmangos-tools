@@ -1,0 +1,29 @@
+DROP TABLE IF EXISTS `dungeon_encounter_template`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `dungeon_encounter_template` (
+  `Id` int(11) unsigned NOT NULL DEFAULT '0',
+  `MapId` int(11) unsigned NOT NULL DEFAULT '0',
+  `Difficulty` int(11) unsigned NOT NULL DEFAULT '0',
+  `EncounterData` int(11) unsigned NOT NULL DEFAULT '0',
+  `EncounterIndex` int(11) unsigned NOT NULL DEFAULT '0',
+  `EncounterName` text NOT NULL,
+  `EncounterName2` text,
+  `EncounterName3` text,
+  `EncounterName4` text,
+  `EncounterName5` text,
+  `EncounterName6` text,
+  `EncounterName7` text,
+  `EncounterName8` text,
+  `EncounterName9` text,
+  `EncounterName10` text,
+  `EncounterName11` text,
+  `EncounterName12` text,
+  `EncounterName13` text,
+  `EncounterName14` text,
+  `EncounterName15` text,
+  `EncounterName16` text,
+  `NameLangFlags` int(11) unsigned NOT NULL DEFAULT '0',
+  `SpellIconID` int(11) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Export of .dbc DungeonEncounter.dbc';
