@@ -58,6 +58,5 @@ SpellDBCToSQL/SpellDBCToSQL.VC.db
 *.ilk
 *.user
 *.filters
-*.vcxproj
 *.db
 *.opendb
