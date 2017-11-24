@@ -60,3 +60,6 @@ SpellDBCToSQL/SpellDBCToSQL.VC.db
 *.filters
 *.db
 *.opendb
+*.ipdb
+*.iobj
+*.ipch
