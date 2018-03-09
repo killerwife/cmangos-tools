@@ -7,6 +7,7 @@ const char SpellEntryfmtClassic[] = "niixiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifxiiii
 const char DungeonEncounterFmt[] = "iiiiissssssssssssssssii";
 const char FactionEntryfmt[]    = "niiiiiiiiiiiiiiiiiiffiissssssssssssssssxxxxxxxxxxxxxxxxxx";
 const char FactionEntryTBCfmt[] = "niiiiiiiiiiiiiiiiiissssssssssssssssxxxxxxxxxxxxxxxxxx";
+const char AreaGroupFmt[] = "niiiiiii";
 
 // to get respective SQL to C++ fmt just remove all x
 
@@ -16,3 +17,4 @@ DBCStorage <SpellEntryClassic> sSpellStoreClassic(SpellEntryfmtClassic);
 DBCStorage <DungeonEncounterEntry> sDungeonEncounterStore(DungeonEncounterFmt);
 DBCStorage <FactionEntry> sFactionStore(FactionEntryfmt);
 DBCStorage <FactionEntryTBC> sFactionStoreTBC(FactionEntryTBCfmt);
+DBCStorage <AreaGroupEntry> sAreaGroupStore(AreaGroupFmt);

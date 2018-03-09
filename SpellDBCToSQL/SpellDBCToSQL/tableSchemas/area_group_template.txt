@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS `area_group_template`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `area_group_template` (
+  `Id` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId1` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId2` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId3` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId4` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId5` int(11) unsigned NOT NULL DEFAULT '0',
+  `AreaId6` int(11) unsigned NOT NULL DEFAULT '0',
+  `NextGroup` int(11) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Export of .dbc AreaGroup.dbc';

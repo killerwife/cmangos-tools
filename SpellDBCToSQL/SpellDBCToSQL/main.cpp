@@ -206,6 +206,7 @@ int main()
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sDungeonEncounterStore, dbcPath, "DungeonEncounter.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sFactionStore, dbcPath, "Faction.dbc");
+    //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sAreaGroupStore, dbcPath, "AreaGroup.dbc");
 
     uint32 availableDbcLocales = 0xFFFFFFFF;
     //LoadDBC(availableDbcLocales, bar, bad_dbc_files, sSpellStoreTBC, dbcPath, "SpellTBC.dbc", false);
@@ -219,5 +220,6 @@ int main()
     //exporter.ExportDBCToSQLWotlk("spell_template_wotlk");
     //exporter.ExportDungeonEncounters("dungeon_encounter_store");
     //exporter.ExportFactionsWOTLK("faction_store");
-    exporter.ExportFactionsTBC("faction_storeTBC");
+    //exporter.ExportFactionsTBC("faction_storeTBC");
+    //exporter.ExportDBCGeneric("area_group_template", &DBCExport::ExportAreaGroupWotlk);
 }

@@ -400,6 +400,13 @@ struct FactionEntryTBC
                                                             // 56 string flags
 };
 
+struct AreaGroupEntry
+{
+    uint32  AreaGroupId;                                    // 0        m_ID
+    uint32  AreaId[6];                                      // 1-6      m_areaID
+    uint32  nextGroup;                                      // 7        m_nextAreaID
+};
+
 #if defined( __GNUC__ )
 #pragma pack()
 #else
