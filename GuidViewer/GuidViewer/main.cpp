@@ -9,7 +9,7 @@ int main()
     while (1)
     {
         uint64 guid;
-        scanf("%llu",&guid);
+        scanf("%llx",&guid);
         if (guid == 0)
             break;
         ObjectGuid guidObj(guid);
