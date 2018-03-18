@@ -840,3 +840,205 @@ void DBCExport::ExportDungeonEncounters(std::string tableName)
     std::cout << "Done." << std::endl;
     return;
 }
+
+void DBCExport::ExportFactionsTBC(std::string tableName)
+{
+    //sLog.WaitBeforeContinueIfNeed();
+
+    std::string url(EXAMPLE_HOST);
+    const std::string user(EXAMPLE_USER);
+    const std::string pass(EXAMPLE_PASS);
+    const std::string database(EXAMPLE_DB);
+    PreparedStatementMaker maker;
+    std::string statement;
+    maker.MakePreparedStatement(tableName, statement);
+    try {
+
+        sql::Driver* driver = get_driver_instance();
+        std::auto_ptr<sql::Connection> con(driver->connect(url, user, pass));
+        con->setSchema(database);
+        std::auto_ptr<sql::Statement> stmt(con->createStatement());
+        for (uint32 i = 1; i < 80900; ++i)
+        {
+            FactionEntryTBC const* factionEntry = sFactionStoreTBC.LookupEntry(i);
+            if (!factionEntry)
+                continue;
+
+            std::string factionNameEscaped[16];
+            for (int k = 0; k < 16; k++)
+            {
+                std::string factionName = factionEntry->name[k];
+                escapeString(factionName);
+                factionNameEscaped[k] = factionName;
+            }
+
+            char buff[5000];
+            //                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35    36    37    38    39    40    41    42    43    44    45    46    47    48    49    50    51    52    53    54    55    56    57    58    59    60    61    62    63    64    65    66    67    68    69    70    71    72    73    74    75    76    77    78    79    80    82    83    84    85    86    87    88    89    90    91    92    93    94    95    96    97    98    99   100   101   102   103   104   105   106   107   108   109   110   111   112   113   114   115   116   117   118   119   120   121   122   123   124   125   126
+            snprintf(buff, sizeof(buff), statement.data(),
+                tableName.data(),
+                factionEntry->Id,
+                factionEntry->reputationListID,
+                factionEntry->BaseRepRaceMask[0],
+                factionEntry->BaseRepRaceMask[1],
+                factionEntry->BaseRepRaceMask[2],
+                factionEntry->BaseRepRaceMask[3],
+                factionEntry->BaseRepClassMask[0],
+                factionEntry->BaseRepClassMask[1],
+                factionEntry->BaseRepClassMask[2],
+                factionEntry->BaseRepClassMask[3],
+                factionEntry->BaseRepValue[0],
+                factionEntry->BaseRepValue[1],
+                factionEntry->BaseRepValue[2],
+                factionEntry->BaseRepValue[3],
+                factionEntry->ReputationFlags[0],
+                factionEntry->ReputationFlags[1],
+                factionEntry->ReputationFlags[2],
+                factionEntry->ReputationFlags[3],
+                factionEntry->team,
+                factionNameEscaped[0].data(),
+                factionNameEscaped[1].data(),
+                factionNameEscaped[2].data(),
+                factionNameEscaped[3].data(),
+                factionNameEscaped[4].data(),
+                factionNameEscaped[5].data(),
+                factionNameEscaped[6].data(),
+                factionNameEscaped[7].data(),
+                factionNameEscaped[8].data(),
+                factionNameEscaped[9].data(),
+                factionNameEscaped[10].data(),
+                factionNameEscaped[11].data(),
+                factionNameEscaped[12].data(),
+                factionNameEscaped[13].data(),
+                factionNameEscaped[14].data(),
+                factionNameEscaped[15].data()
+            );
+
+            std::string outputString(buff);
+            //printf("%s\n",outputString.data());
+            stmt->execute(outputString);
+        }
+    }
+    catch (sql::SQLException &e) {
+        /*
+        MySQL Connector/C++ throws three different exceptions:
+
+        - sql::MethodNotImplementedException (derived from sql::SQLException)
+        - sql::InvalidArgumentException (derived from sql::SQLException)
+        - sql::SQLException (derived from std::runtime_error)
+        */
+        std::cout << "# ERR: SQLException in " << __FILE__;
+        std::cout << "(" << __FUNCTION__ << ") on line " << __LINE__ << std::endl;
+        /* what() (derived from std::runtime_error) fetches error message */
+        std::cout << "# ERR: " << e.what();
+        std::cout << " (MySQL error code: " << e.getErrorCode();
+        std::cout << ", SQLState: " << e.getSQLState() << " )" << std::endl;
+
+        return;
+    }
+
+    std::cout << "Done." << std::endl;
+    return;
+}
+
+void DBCExport::ExportFactionsWOTLK(std::string tableName)
+{
+    //sLog.WaitBeforeContinueIfNeed();
+
+    std::string url(EXAMPLE_HOST);
+    const std::string user(EXAMPLE_USER);
+    const std::string pass(EXAMPLE_PASS);
+    const std::string database(EXAMPLE_DB);
+    PreparedStatementMaker maker;
+    std::string statement;
+    maker.MakePreparedStatement(tableName, statement);
+    try {
+
+        sql::Driver* driver = get_driver_instance();
+        std::auto_ptr<sql::Connection> con(driver->connect(url, user, pass));
+        con->setSchema(database);
+        std::auto_ptr<sql::Statement> stmt(con->createStatement());
+        for (uint32 i = 1; i < 80900; ++i)
+        {
+            FactionEntry const* factionEntry = sFactionStore.LookupEntry(i);
+            if (!factionEntry)
+                continue;
+
+            std::string factionNameEscaped[16];
+            for (int k = 0; k < 16; k++)
+            {
+                std::string factionName = factionEntry->name[k];
+                escapeString(factionName);
+                factionNameEscaped[k] = factionName;
+            }
+
+            char buff[5000];
+            //                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35    36    37    38    39    40    41    42    43    44    45    46    47    48    49    50    51    52    53    54    55    56    57    58    59    60    61    62    63    64    65    66    67    68    69    70    71    72    73    74    75    76    77    78    79    80    82    83    84    85    86    87    88    89    90    91    92    93    94    95    96    97    98    99   100   101   102   103   104   105   106   107   108   109   110   111   112   113   114   115   116   117   118   119   120   121   122   123   124   125   126
+            snprintf(buff, sizeof(buff), statement.data(),
+                tableName.data(),
+                factionEntry->Id,
+                factionEntry->reputationListID,
+                factionEntry->BaseRepRaceMask[0],
+                factionEntry->BaseRepRaceMask[1],
+                factionEntry->BaseRepRaceMask[2],
+                factionEntry->BaseRepRaceMask[3],
+                factionEntry->BaseRepClassMask[0],
+                factionEntry->BaseRepClassMask[1],
+                factionEntry->BaseRepClassMask[2],
+                factionEntry->BaseRepClassMask[3],
+                factionEntry->BaseRepValue[0],
+                factionEntry->BaseRepValue[1],
+                factionEntry->BaseRepValue[2],
+                factionEntry->BaseRepValue[3],
+                factionEntry->ReputationFlags[0],
+                factionEntry->ReputationFlags[1],
+                factionEntry->ReputationFlags[2],
+                factionEntry->ReputationFlags[3],
+                factionEntry->team,
+                factionEntry->spilloverRateIn,
+                factionEntry->spilloverRateOut,
+                factionEntry->spilloverMaxRankIn,
+                factionEntry->spilloverRank_unk,
+                factionNameEscaped[0].data(),
+                factionNameEscaped[1].data(),
+                factionNameEscaped[2].data(),
+                factionNameEscaped[3].data(),
+                factionNameEscaped[4].data(),
+                factionNameEscaped[5].data(),
+                factionNameEscaped[6].data(),
+                factionNameEscaped[7].data(),
+                factionNameEscaped[8].data(),
+                factionNameEscaped[9].data(),
+                factionNameEscaped[10].data(),
+                factionNameEscaped[11].data(),
+                factionNameEscaped[12].data(),
+                factionNameEscaped[13].data(),
+                factionNameEscaped[14].data(),
+                factionNameEscaped[15].data()
+            );
+
+            std::string outputString(buff);
+            //printf("%s\n",outputString.data());
+            stmt->execute(outputString);
+        }
+    }
+    catch (sql::SQLException &e) {
+        /*
+        MySQL Connector/C++ throws three different exceptions:
+
+        - sql::MethodNotImplementedException (derived from sql::SQLException)
+        - sql::InvalidArgumentException (derived from sql::SQLException)
+        - sql::SQLException (derived from std::runtime_error)
+        */
+        std::cout << "# ERR: SQLException in " << __FILE__;
+        std::cout << "(" << __FUNCTION__ << ") on line " << __LINE__ << std::endl;
+        /* what() (derived from std::runtime_error) fetches error message */
+        std::cout << "# ERR: " << e.what();
+        std::cout << " (MySQL error code: " << e.getErrorCode();
+        std::cout << ", SQLState: " << e.getSQLState() << " )" << std::endl;
+
+        return;
+    }
+
+    std::cout << "Done." << std::endl;
+    return;
+}

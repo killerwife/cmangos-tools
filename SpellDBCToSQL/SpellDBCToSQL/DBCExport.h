@@ -8,5 +8,7 @@ public:
     void ExportDBCToSQLWotlk(std::string tableName);
     void ExportDBCToSQLClassic(std::string tableName);
     void ExportDungeonEncounters(std::string tableName);
+    void ExportFactionsTBC(std::string tableName);
+    void ExportFactionsWOTLK(std::string tableName);
 };
 

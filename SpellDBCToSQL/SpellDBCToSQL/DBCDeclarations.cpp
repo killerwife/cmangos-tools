@@ -5,6 +5,8 @@ const char SpellEntryfmtTBC[] = "nixiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifxiiii
        const char SpellEntryfmt[] = "niixiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiffffffiiiiiiiiiiiiiiiiiiiiifffiiiiiiiiiiiifffixiixssssssssxssssssssxxxxxxxxxxxxxxxxxxxiiiiiiiiiixfffxxx";
 const char SpellEntryfmtClassic[] = "niixiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifxiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiffffffiiiiiiiiiiiiiiiiiiiiifffiiiiiiiiiiiifffixiiissssssssxssssssssxxxxxxxxxxxxxxxxxxxiiiiiiiiiixfffxxx";
 const char DungeonEncounterFmt[] = "iiiiissssssssssssssssii";
+const char FactionEntryfmt[]    = "niiiiiiiiiiiiiiiiiiffiissssssssssssssssxxxxxxxxxxxxxxxxxx";
+const char FactionEntryTBCfmt[] = "niiiiiiiiiiiiiiiiiissssssssssssssssxxxxxxxxxxxxxxxxxx";
 
 // to get respective SQL to C++ fmt just remove all x
 
@@ -12,3 +14,5 @@ DBCStorage <SpellEntryWOTLK> sSpellStoreWOTLK(SpellEntryfmtWOTLK);
 DBCStorage <SpellEntryTBC> sSpellStoreTBC(SpellEntryfmtTBC);
 DBCStorage <SpellEntryClassic> sSpellStoreClassic(SpellEntryfmtClassic);
 DBCStorage <DungeonEncounterEntry> sDungeonEncounterStore(DungeonEncounterFmt);
+DBCStorage <FactionEntry> sFactionStore(FactionEntryfmt);
+DBCStorage <FactionEntryTBC> sFactionStoreTBC(FactionEntryTBCfmt);

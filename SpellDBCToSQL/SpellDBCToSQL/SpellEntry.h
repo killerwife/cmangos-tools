@@ -366,6 +366,40 @@ struct DungeonEncounterEntry
     uint32 spellIconID;                                  // 22       m_spellIconID
 };
 
+struct FactionEntry
+{
+    uint32      Id;                                         // 0        m_ID
+    int32       reputationListID;                           // 1        m_reputationIndex
+    uint32      BaseRepRaceMask[4];                         // 2-5      m_reputationRaceMask
+    uint32      BaseRepClassMask[4];                        // 6-9      m_reputationClassMask
+    int32       BaseRepValue[4];                            // 10-13    m_reputationBase
+    uint32      ReputationFlags[4];                         // 14-17    m_reputationFlags
+    uint32      team;                                       // 18       m_parentFactionID
+    float       spilloverRateIn;                            // 19       m_parentFactionMod[2] Faction gains incoming rep * spilloverRateIn
+    float       spilloverRateOut;                           // 20       Faction outputs rep * spilloverRateOut as spillover reputation
+    uint32      spilloverMaxRankIn;                         // 21       m_parentFactionCap[2] The highest rank the faction will profit from incoming spillover
+    uint32      spilloverRank_unk;                          // 22       It does not seem to be the max standing at which a faction outputs spillover ...so no idea
+    char*       name[16];                                   // 23-38    m_name_lang
+                                                            // 39 string flags
+                                                            // char*     description[16];                           // 40-55    m_description_lang
+                                                            // 56 string flags
+};
+
+struct FactionEntryTBC
+{
+    uint32      Id;                                         // 0        m_ID
+    int32       reputationListID;                           // 1        m_reputationIndex
+    uint32      BaseRepRaceMask[4];                         // 2-5      m_reputationRaceMask
+    uint32      BaseRepClassMask[4];                        // 6-9      m_reputationClassMask
+    int32       BaseRepValue[4];                            // 10-13    m_reputationBase
+    uint32      ReputationFlags[4];                         // 14-17    m_reputationFlags
+    uint32      team;                                       // 18       m_parentFactionID
+    char*       name[16];                                   // 23-38    m_name_lang
+                                                            // 39 string flags
+                                                            // char*     description[16];                           // 40-55    m_description_lang
+                                                            // 56 string flags
+};
+
 #if defined( __GNUC__ )
 #pragma pack()
 #else
