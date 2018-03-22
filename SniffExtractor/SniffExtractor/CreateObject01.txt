@@ -1,0 +1,1087 @@
+Found new data for entry: 11323 Different model ID Old: 11431 New:11430 Different native model ID Old: 11431 New:11430
+Found new data for entry: 1553 Different bounding radius Old: 0.148898 New:0.150678 Different combat reach Old: 0.638136 New:0.645763
+Found new data for entry: 1553 Different bounding radius Old: 0.150678 New:0.148898 Different combat reach Old: 0.645763 New:0.638136
+Found new data for entry: 1554 Different bounding radius Old: 0.154237 New:0.152458 Different combat reach Old: 0.661017 New:0.653390
+Found new data for entry: 4281 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2517 New:2516 Different native model ID Old: 2517 New:2516
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 861 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 4498 New:4497 Different native model ID Old: 4498 New:4497
+Found new data for entry: 4812 Different bounding radius Old: 0.208000 New:0.974700 Different combat reach Old: 1.500000 New:4.050000 Different model ID Old: 2896 New:2895 Different native model ID Old: 2896 New:2895
+Found new data for entry: 4812 Different bounding radius Old: 0.974700 New:0.208000 Different combat reach Old: 4.050000 New:1.500000 Different model ID Old: 2895 New:2896 Different native model ID Old: 2895 New:2896
+Found new data for entry: 8996 Different faction ID Old: 554 New:128
+Found new data for entry: 861 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 4497 New:4498 Different native model ID Old: 4497 New:4498
+Found new data for entry: 861 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 4498 New:4497 Different native model ID Old: 4498 New:4497
+Found new data for entry: 4280 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2464 New:2475 Different native model ID Old: 2464 New:2475
+Found new data for entry: 5649 Different model ID Old: 6423 New:6424 Different native model ID Old: 6423 New:6424
+Found new data for entry: 5649 Different model ID Old: 6424 New:6423 Different native model ID Old: 6424 New:6423
+Found new data for entry: 5648 Different model ID Old: 6419 New:6420 Different native model ID Old: 6419 New:6420
+Found new data for entry: 5649 Different model ID Old: 6423 New:6424 Different native model ID Old: 6423 New:6424
+Found new data for entry: 4075 Different model ID Old: 1141 New:2176 Different native model ID Old: 1141 New:2176
+Found new data for entry: 2914 Different model ID Old: 2958 New:1206 Different native model ID Old: 2958 New:1206
+Found new data for entry: 6426 Different model ID Old: 10256 New:10255 Different native model ID Old: 10256 New:10255
+Found new data for entry: 5650 Different model ID Old: 6422 New:6421 Different native model ID Old: 6422 New:6421
+Found new data for entry: 4075 Different model ID Old: 2176 New:1141 Different native model ID Old: 2176 New:1141
+Found new data for entry: 7246 Different model ID Old: 6426 New:6425 Different native model ID Old: 6426 New:6425
+Found new data for entry: 5650 Different model ID Old: 6421 New:6422 Different native model ID Old: 6421 New:6422
+Found new data for entry: 4075 Different model ID Old: 1141 New:1418 Different native model ID Old: 1141 New:1418
+Found new data for entry: 4075 Different model ID Old: 1418 New:1141 Different native model ID Old: 1418 New:1141
+Found new data for entry: 4075 Different model ID Old: 1141 New:1418 Different native model ID Old: 1141 New:1418
+Found new data for entry: 5650 Different model ID Old: 6422 New:6421 Different native model ID Old: 6422 New:6421
+Found new data for entry: 6426 Different model ID Old: 10255 New:10256 Different native model ID Old: 10255 New:10256
+Found new data for entry: 5649 Different model ID Old: 6424 New:6423 Different native model ID Old: 6424 New:6423
+Found new data for entry: 7247 Different model ID Old: 6427 New:6428 Different native model ID Old: 6427 New:6428
+Found new data for entry: 4953 Different model ID Old: 1986 New:1987 Different native model ID Old: 1986 New:1987
+Found new data for entry: 7246 Different model ID Old: 6425 New:6426 Different native model ID Old: 6425 New:6426
+Found new data for entry: 5649 Different model ID Old: 6423 New:6424 Different native model ID Old: 6423 New:6424
+Found new data for entry: 5649 Different model ID Old: 6424 New:6423 Different native model ID Old: 6424 New:6423
+Found new data for entry: 7246 Different model ID Old: 6426 New:6425 Different native model ID Old: 6426 New:6425
+Found new data for entry: 7246 Different model ID Old: 6425 New:6426 Different native model ID Old: 6425 New:6426
+Found new data for entry: 5649 Different model ID Old: 6423 New:6424 Different native model ID Old: 6423 New:6424
+Found new data for entry: 13321 Different model ID Old: 6295 New:1924 Different native model ID Old: 6295 New:1924
+Found new data for entry: 5649 Different model ID Old: 6424 New:6423 Different native model ID Old: 6424 New:6423
+Found new data for entry: 13599 Different bounding radius Old: 0.256864 New:0.255085 Different combat reach Old: 0.587119 New:0.583051
+Found new data for entry: 13321 Different model ID Old: 1924 New:6297 Different native model ID Old: 1924 New:6297
+Found new data for entry: 5649 Different model ID Old: 6423 New:6424 Different native model ID Old: 6423 New:6424
+Found new data for entry: 13321 Different model ID Old: 6297 New:1924 Different native model ID Old: 6297 New:1924
+Found new data for entry: 5649 Different model ID Old: 6424 New:6423 Different native model ID Old: 6424 New:6423
+Found new data for entry: 4295 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2514 New:2515 Different native model ID Old: 2514 New:2515
+Found new data for entry: 4300 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2526 New:2525 Different native model ID Old: 2526 New:2525
+Found new data for entry: 13321 Different model ID Old: 1924 New:901 Different native model ID Old: 1924 New:901
+Found new data for entry: 13321 Different model ID Old: 901 New:6297 Different native model ID Old: 901 New:6297
+Found new data for entry: 4295 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2515 New:2514 Different native model ID Old: 2515 New:2514
+Found new data for entry: 13321 Different model ID Old: 6297 New:901 Different native model ID Old: 6297 New:901
+Found new data for entry: 13321 Different model ID Old: 901 New:6295 Different native model ID Old: 901 New:6295
+Found new data for entry: 4295 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2514 New:2515 Different native model ID Old: 2514 New:2515
+Found new data for entry: 4301 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2500 New:2499 Different native model ID Old: 2500 New:2499
+Found new data for entry: 4301 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2499 New:2500 Different native model ID Old: 2499 New:2500
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13211 Different native model ID Old: 12333 New:13211
+Found new data for entry: 13321 Different model ID Old: 6295 New:1924 Different native model ID Old: 6295 New:1924
+Found new data for entry: 16582 Different bounding radius Old: 0.336600 New:0.306000 Different combat reach Old: 1.650000 New:1.500000 Different faction ID Old: 1668 New:714 Different model ID Old: 16298 New:16299 Different native model ID Old: 16298 New:16299
+Found new data for entry: 13599 Different bounding radius Old: 0.255085 New:0.256864 Different combat reach Old: 0.583051 New:0.587119
+Found new data for entry: 4540 Different model ID Old: 2603 New:2604 Different native model ID Old: 2603 New:2604
+Found new data for entry: 13321 Different model ID Old: 1924 New:6297 Different native model ID Old: 1924 New:6297
+Found new data for entry: 13321 Different model ID Old: 6297 New:6295 Different native model ID Old: 6297 New:6295
+Found new data for entry: 4953 Different model ID Old: 1987 New:1986 Different native model ID Old: 1987 New:1986
+Found new data for entry: 4540 Different model ID Old: 2604 New:2603 Different native model ID Old: 2604 New:2603
+Found new data for entry: 4300 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2525 New:2526 Different native model ID Old: 2525 New:2526
+Found new data for entry: 13321 Different model ID Old: 6295 New:6297 Different native model ID Old: 6295 New:6297
+Found new data for entry: 13321 Different model ID Old: 6297 New:901 Different native model ID Old: 6297 New:901
+Found new data for entry: 13321 Different model ID Old: 901 New:6297 Different native model ID Old: 901 New:6297
+Found new data for entry: 13321 Different model ID Old: 6297 New:901 Different native model ID Old: 6297 New:901
+Found new data for entry: 13321 Different model ID Old: 901 New:1924 Different native model ID Old: 901 New:1924
+Found new data for entry: 4301 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2500 New:2499 Different native model ID Old: 2500 New:2499
+Found new data for entry: 4301 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2499 New:2500 Different native model ID Old: 2499 New:2500
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 13323 Different model ID Old: 13210 New:13209 Different native model ID Old: 13210 New:13209
+Found new data for entry: 13323 Different model ID Old: 13209 New:13210 Different native model ID Old: 13209 New:13210
+Found new data for entry: 11789 Different model ID Old: 13212 New:13211 Different native model ID Old: 13212 New:13211
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:12333 Different native model ID Old: 13212 New:12333
+Found new data for entry: 11323 Different model ID Old: 11430 New:11431 Different native model ID Old: 11430 New:11431
+Found new data for entry: 13323 Different model ID Old: 13210 New:13209 Different native model ID Old: 13210 New:13209
+Found new data for entry: 4301 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2500 New:2499 Different native model ID Old: 2500 New:2499
+Found new data for entry: 11789 Different model ID Old: 12333 New:9032 Different native model ID Old: 12333 New:9032
+Found new data for entry: 4301 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2499 New:2500 Different native model ID Old: 2499 New:2500
+Found new data for entry: 4301 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2500 New:2499 Different native model ID Old: 2500 New:2499
+Found new data for entry: 4301 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2499 New:2500 Different native model ID Old: 2499 New:2500
+Found new data for entry: 4295 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2515 New:2514 Different native model ID Old: 2515 New:2514
+Found new data for entry: 4298 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2473 New:2462 Different native model ID Old: 2473 New:2462
+Found new data for entry: 4300 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2526 New:2525 Different native model ID Old: 2526 New:2525
+Found new data for entry: 13323 Different model ID Old: 13209 New:13210 Different native model ID Old: 13209 New:13210
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:9032 Different native model ID Old: 13212 New:9032
+Found new data for entry: 11789 Different model ID Old: 9032 New:12333 Different native model ID Old: 9032 New:12333
+Found new data for entry: 4287 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2463 New:2474 Different native model ID Old: 2463 New:2474
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13212 Different native model ID Old: 12333 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:9032 Different native model ID Old: 13212 New:9032
+Found new data for entry: 4287 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2474 New:2463 Different native model ID Old: 2474 New:2463
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:12333 Different native model ID Old: 13211 New:12333
+Found new data for entry: 11789 Different model ID Old: 12333 New:9032 Different native model ID Old: 12333 New:9032
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:12333 Different native model ID Old: 13211 New:12333
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13212 Different native model ID Old: 12333 New:13212
+Found new data for entry: 13323 Different model ID Old: 13210 New:13209 Different native model ID Old: 13210 New:13209
+Found new data for entry: 13323 Different model ID Old: 13209 New:13210 Different native model ID Old: 13209 New:13210
+Found new data for entry: 13323 Different model ID Old: 13210 New:13209 Different native model ID Old: 13210 New:13209
+Found new data for entry: 13323 Different model ID Old: 13209 New:13210 Different native model ID Old: 13209 New:13210
+Found new data for entry: 5269 Different model ID Old: 4776 New:4777 Different native model ID Old: 4776 New:4777
+Found new data for entry: 11789 Different model ID Old: 13212 New:13211 Different native model ID Old: 13212 New:13211
+Found new data for entry: 5269 Different model ID Old: 4777 New:4776 Different native model ID Old: 4777 New:4776
+Found new data for entry: 13321 Different model ID Old: 1924 New:6297 Different native model ID Old: 1924 New:6297
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:9032 Different native model ID Old: 13212 New:9032
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:12333 Different native model ID Old: 13211 New:12333
+Found new data for entry: 5263 Different model ID Old: 4770 New:4769 Different native model ID Old: 4770 New:4769
+Found new data for entry: 11789 Different model ID Old: 12333 New:9032 Different native model ID Old: 12333 New:9032
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 11789 Different model ID Old: 13212 New:13211 Different native model ID Old: 13212 New:13211
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:12333 Different native model ID Old: 13211 New:12333
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13212 Different native model ID Old: 12333 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:12333 Different native model ID Old: 13212 New:12333
+Found new data for entry: 4540 Different model ID Old: 2603 New:2604 Different native model ID Old: 2603 New:2604
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13212 Different native model ID Old: 12333 New:13212
+Found new data for entry: 4540 Different model ID Old: 2604 New:2603 Different native model ID Old: 2604 New:2603
+Found new data for entry: 13321 Different model ID Old: 6297 New:901 Different native model ID Old: 6297 New:901
+Found new data for entry: 13321 Different model ID Old: 901 New:1924 Different native model ID Old: 901 New:1924
+Found new data for entry: 13599 Different bounding radius Old: 0.256864 New:0.255085 Different combat reach Old: 0.587119 New:0.583051
+Found new data for entry: 13321 Different model ID Old: 1924 New:6295 Different native model ID Old: 1924 New:6295
+Found new data for entry: 4953 Different model ID Old: 1986 New:1987 Different native model ID Old: 1986 New:1987
+Found new data for entry: 13599 Different bounding radius Old: 0.255085 New:0.256864 Different combat reach Old: 0.583051 New:0.587119
+Found new data for entry: 13321 Different model ID Old: 6295 New:1924 Different native model ID Old: 6295 New:1924
+Found new data for entry: 4291 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2508 New:2507 Different native model ID Old: 2508 New:2507
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 4953 Different model ID Old: 1987 New:2956 Different native model ID Old: 1987 New:2956
+Found new data for entry: 4291 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2507 New:2508 Different native model ID Old: 2507 New:2508
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:12333 Different native model ID Old: 13212 New:12333
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 12333 New:13212 Different native model ID Old: 12333 New:13212
+Found new data for entry: 11789 Different model ID Old: 13212 New:13211 Different native model ID Old: 13212 New:13211
+Found new data for entry: 4291 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2508 New:2507 Different native model ID Old: 2508 New:2507
+Found new data for entry: 4287 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2463 New:2474 Different native model ID Old: 2463 New:2474
+Found new data for entry: 4287 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2474 New:2463 Different native model ID Old: 2474 New:2463
+Found new data for entry: 4287 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2463 New:2474 Different native model ID Old: 2463 New:2474
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:9032 Different native model ID Old: 13211 New:9032
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13211 Different native model ID Old: 9032 New:13211
+Found new data for entry: 11789 Different model ID Old: 13211 New:13212 Different native model ID Old: 13211 New:13212
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 4287 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2474 New:2463 Different native model ID Old: 2474 New:2463
+Found new data for entry: 4291 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2507 New:2508 Different native model ID Old: 2507 New:2508
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 4540 Different model ID Old: 2603 New:2604 Different native model ID Old: 2603 New:2604
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 4286 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2522 New:2523 Different native model ID Old: 2522 New:2523
+Found new data for entry: 4292 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2476 New:2465 Different native model ID Old: 2476 New:2465
+Found new data for entry: 4953 Different model ID Old: 2956 New:1986 Different native model ID Old: 2956 New:1986
+Found new data for entry: 4810 Different bounding radius Old: 0.872500 New:0.306000 Different combat reach Old: 3.750000 New:1.500000 Different model ID Old: 2901 New:2898 Different native model ID Old: 2901 New:2898
+Found new data for entry: 4810 Different bounding radius Old: 0.306000 New:0.872500 Different combat reach Old: 1.500000 New:3.750000 Different model ID Old: 2898 New:2901 Different native model ID Old: 2898 New:2901
+Found new data for entry: 11789 Different model ID Old: 13212 New:13211 Different native model ID Old: 13212 New:13211
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13211 New:9032 Different native model ID Old: 13211 New:9032
+Found new data for entry: 4813 Different model ID Old: 2876 New:2877 Different native model ID Old: 2876 New:2877
+Found new data for entry: 11789 Different bounding radius Old: 1.125000 New:0.900000 Different combat reach Old: 1.125000 New:0.900000 Different model ID Old: 9032 New:13212 Different native model ID Old: 9032 New:13212
+Found new data for entry: 11789 Different bounding radius Old: 0.900000 New:1.125000 Different combat reach Old: 0.900000 New:1.125000 Different model ID Old: 13212 New:12333 Different native model ID Old: 13212 New:12333
+Found new data for entry: 3875 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 3229 New:3230 Different native model ID Old: 3229 New:3230
+Found new data for entry: 3875 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 3230 New:3229 Different native model ID Old: 3230 New:3229
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6724 New:6725 Different native model ID Old: 6724 New:6725
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 4812 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 2896 New:2894 Different native model ID Old: 2896 New:2894
+Found new data for entry: 12380 Different model ID Old: 13949 New:12430 Different native model ID Old: 13949 New:12430
+Found new data for entry: 11323 Different model ID Old: 11431 New:11430 Different native model ID Old: 11431 New:11430
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11434 New:11437 Different native model ID Old: 11434 New:11437
+Found new data for entry: 11323 Different model ID Old: 11430 New:11431 Different native model ID Old: 11430 New:11431
+Found new data for entry: 11323 Different model ID Old: 11431 New:11430 Different native model ID Old: 11431 New:11430
+Found new data for entry: 11323 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11430 New:11433 Different native model ID Old: 11430 New:11433
+Found new data for entry: 4812 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 2894 New:2896 Different native model ID Old: 2894 New:2896
+Found new data for entry: 11323 Different model ID Old: 11433 New:11432 Different native model ID Old: 11433 New:11432
+Found new data for entry: 4810 Different bounding radius Old: 0.872500 New:0.306000 Different combat reach Old: 3.750000 New:1.500000 Different model ID Old: 2901 New:2899 Different native model ID Old: 2901 New:2899
+Found new data for entry: 11323 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11432 New:11430 Different native model ID Old: 11432 New:11430
+Found new data for entry: 11322 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11437 New:11434 Different native model ID Old: 11437 New:11434
+Found new data for entry: 11324 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11438 New:11440 Different native model ID Old: 11438 New:11440
+Found new data for entry: 4292 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2465 New:2476 Different native model ID Old: 2465 New:2476
+Found new data for entry: 4292 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2476 New:2465 Different native model ID Old: 2476 New:2465
+Found new data for entry: 8996 Different faction ID Old: 128 New:90
+Found new data for entry: 4292 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2465 New:2476 Different native model ID Old: 2465 New:2476
+Found new data for entry: 6007 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 6788 New:6787 Different native model ID Old: 6788 New:6787
+Found new data for entry: 8996 Different faction ID Old: 90 New:554
+Found new data for entry: 4289 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2510 New:2509 Different native model ID Old: 2510 New:2509
+Found new data for entry: 4295 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2514 New:2515 Different native model ID Old: 2514 New:2515
+Found new data for entry: 4298 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2462 New:2473 Different native model ID Old: 2462 New:2473
+Found new data for entry: 3875 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 3229 New:3230 Different native model ID Old: 3229 New:3230
+Found new data for entry: 4286 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2523 New:2522 Different native model ID Old: 2523 New:2522
+Found new data for entry: 4298 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2473 New:2462 Different native model ID Old: 2473 New:2462
+Found new data for entry: 6007 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 6787 New:6788 Different native model ID Old: 6787 New:6788
+Found new data for entry: 4812 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 2896 New:2894 Different native model ID Old: 2896 New:2894
+Found new data for entry: 6009 Different model ID Old: 6786 New:6785 Different native model ID Old: 6786 New:6785
+Found new data for entry: 12380 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 12430 New:12431 Different native model ID Old: 12430 New:12431
+Found new data for entry: 6007 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 6788 New:6787 Different native model ID Old: 6788 New:6787
+Found new data for entry: 6007 Different bounding radius Old: 0.372000 New:0.306000 Different model ID Old: 6787 New:7841 Different native model ID Old: 6787 New:7841
+Found new data for entry: 6009 Different model ID Old: 6785 New:6786 Different native model ID Old: 6785 New:6786
+Found new data for entry: 3875 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 3230 New:3229 Different native model ID Old: 3230 New:3229
+Found new data for entry: 6008 Different model ID Old: 6790 New:6789 Different native model ID Old: 6790 New:6789
+Found new data for entry: 12379 Different model ID Old: 13951 New:13953 Different native model ID Old: 13951 New:13953
+Found new data for entry: 4810 Different bounding radius Old: 0.306000 New:0.872500 Different combat reach Old: 1.500000 New:3.750000 Different model ID Old: 2899 New:2901 Different native model ID Old: 2899 New:2901
+Found new data for entry: 12379 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 13953 New:13952 Different native model ID Old: 13953 New:13952
+Found new data for entry: 866 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 4503 New:4504 Different native model ID Old: 4503 New:4504
+Found new data for entry: 866 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 4504 New:4503 Different native model ID Old: 4504 New:4503
+Found new data for entry: 11323 Different model ID Old: 11430 New:11431 Different native model ID Old: 11430 New:11431
+Found new data for entry: 11323 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11431 New:11433 Different native model ID Old: 11431 New:11433
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 4538 Different bounding radius Old: 0.191610 New:0.193390 Different combat reach Old: 0.821186 New:0.828814
+Found new data for entry: 6006 Different bounding radius Old: 0.306000 New:0.383000 Different model ID Old: 6772 New:6770 Different native model ID Old: 6772 New:6770
+Found new data for entry: 6004 Different bounding radius Old: 0.214000 New:0.306000 Different model ID Old: 6779 New:6780 Different native model ID Old: 6779 New:6780
+Found new data for entry: 6006 Different model ID Old: 6770 New:6771 Different native model ID Old: 6770 New:6771
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6730 Different native model ID Old: 6728 New:6730
+Found new data for entry: 6004 Different bounding radius Old: 0.306000 New:0.214000 Different model ID Old: 6780 New:6779 Different native model ID Old: 6780 New:6779
+Found new data for entry: 6004 Different bounding radius Old: 0.214000 New:0.306000 Different model ID Old: 6779 New:7838 Different native model ID Old: 6779 New:7838
+Found new data for entry: 6006 Different model ID Old: 6771 New:6770 Different native model ID Old: 6771 New:6770
+Found new data for entry: 4538 Different bounding radius Old: 0.193390 New:0.191610 Different combat reach Old: 0.828814 New:0.821186
+Found new data for entry: 5999 Different model ID Old: 6730 New:6729 Different native model ID Old: 6730 New:6729
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6729 New:6728 Different native model ID Old: 6729 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6729 Different native model ID Old: 6728 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6730 New:6728 Different native model ID Old: 6730 New:6728
+Found new data for entry: 11323 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11433 New:11430 Different native model ID Old: 11433 New:11430
+Found new data for entry: 0 Different bounding radius Old: 0.372000 New:0.383000 Different faction ID Old: 2 New:5 Different model ID Old: 51 New:57 Different native model ID Old: 51 New:57
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6729 Different native model ID Old: 6728 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6730 New:6728 Different native model ID Old: 6730 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6728 New:6727 Different native model ID Old: 6728 New:6727
+Found new data for entry: 5999 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6727 New:6730 Different native model ID Old: 6727 New:6730
+Found new data for entry: 5999 Different model ID Old: 6730 New:6729 Different native model ID Old: 6730 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11434 New:11437 Different native model ID Old: 11434 New:11437
+Found new data for entry: 7078 Different bounding radius Old: 0.436441 New:0.438983 Different combat reach Old: 0.872881 New:0.877966
+Found new data for entry: 7078 Different bounding radius Old: 0.438983 New:0.436441 Different combat reach Old: 0.877966 New:0.872881
+Found new data for entry: 11322 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11437 New:11435 Different native model ID Old: 11437 New:11435
+Found new data for entry: 7078 Different bounding radius Old: 0.436441 New:0.438983 Different combat reach Old: 0.872881 New:0.877966
+Found new data for entry: 11323 Different model ID Old: 11430 New:11431 Different native model ID Old: 11430 New:11431
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11435 New:11436 Different native model ID Old: 11435 New:11436
+Found new data for entry: 11323 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11431 New:11433 Different native model ID Old: 11431 New:11433
+Found new data for entry: 11322 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11436 New:11435 Different native model ID Old: 11436 New:11435
+Found new data for entry: 11322 Different model ID Old: 11435 New:11434 Different native model ID Old: 11435 New:11434
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11434 New:11437 Different native model ID Old: 11434 New:11437
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6730 New:6728 Different native model ID Old: 6730 New:6728
+Found new data for entry: 11322 Different model ID Old: 11437 New:11436 Different native model ID Old: 11437 New:11436
+Found new data for entry: 11322 Different model ID Old: 11436 New:11437 Different native model ID Old: 11436 New:11437
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6729 Different native model ID Old: 6728 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6730 New:6727 Different native model ID Old: 6730 New:6727
+Found new data for entry: 5999 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6727 New:6729 Different native model ID Old: 6727 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 4538 Different bounding radius Old: 0.191610 New:0.193390 Different combat reach Old: 0.821186 New:0.828814
+Found new data for entry: 4538 Different bounding radius Old: 0.193390 New:0.191610 Different combat reach Old: 0.828814 New:0.821186
+Found new data for entry: 4538 Different bounding radius Old: 0.191610 New:0.193390 Different combat reach Old: 0.821186 New:0.828814
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6730 New:6728 Different native model ID Old: 6730 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6729 Different native model ID Old: 6728 New:6729
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6729 New:6728 Different native model ID Old: 6729 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6730 Different native model ID Old: 6728 New:6730
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6730 New:6727 Different native model ID Old: 6730 New:6727
+Found new data for entry: 5999 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6727 New:6728 Different native model ID Old: 6727 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6730 Different native model ID Old: 6728 New:6730
+Found new data for entry: 5999 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6730 New:6728 Different native model ID Old: 6730 New:6728
+Found new data for entry: 5999 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6728 New:6729 Different native model ID Old: 6728 New:6729
+Found new data for entry: 5999 Different model ID Old: 6729 New:6730 Different native model ID Old: 6729 New:6730
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5998 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6725 New:6724 Different native model ID Old: 6725 New:6724
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6724 New:6725 Different native model ID Old: 6724 New:6725
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 3501 Different bounding radius Old: 0.872500 New:0.372000 Different combat reach Old: 3.750000 New:1.500000 Different model ID Old: 4263 New:4261 Different native model ID Old: 4263 New:4261
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 11323 Different model ID Old: 11433 New:11432 Different native model ID Old: 11433 New:11432
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5998 Different model ID Old: 6725 New:6726 Different native model ID Old: 6725 New:6726
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 3501 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 4261 New:4264 Different native model ID Old: 4261 New:4264
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5998 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6726 New:6724 Different native model ID Old: 6726 New:6724
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6724 New:6723 Different native model ID Old: 6724 New:6723
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 6223 Different model ID Old: 6981 New:6982 Different native model ID Old: 6981 New:6982
+Found new data for entry: 11323 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11432 New:11430 Different native model ID Old: 11432 New:11430
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 3501 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 4264 New:4261 Different native model ID Old: 4264 New:4261
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5998 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6723 New:6726 Different native model ID Old: 6723 New:6726
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5998 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6726 New:6724 Different native model ID Old: 6726 New:6724
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 11323 Different model ID Old: 11430 New:11431 Different native model ID Old: 11430 New:11431
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6724 New:6723 Different native model ID Old: 6724 New:6723
+Found new data for entry: 11323 Different model ID Old: 11431 New:11430 Different native model ID Old: 11431 New:11430
+Found new data for entry: 5998 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6723 New:6724 Different native model ID Old: 6723 New:6724
+Found new data for entry: 11322 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11437 New:11434 Different native model ID Old: 11437 New:11434
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11434 New:11437 Different native model ID Old: 11434 New:11437
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6724 New:6723 Different native model ID Old: 6724 New:6723
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5998 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6723 New:6725 Different native model ID Old: 6723 New:6725
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6722 New:6720 Different native model ID Old: 6722 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 6720 New:6719 Different native model ID Old: 6720 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6722 Different native model ID Old: 6719 New:6722
+Found new data for entry: 5998 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6725 New:6724 Different native model ID Old: 6725 New:6724
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6721 New:6719 Different native model ID Old: 6721 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6721 Different native model ID Old: 6720 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5997 Different model ID Old: 6711 New:6712 Different native model ID Old: 6711 New:6712
+Found new data for entry: 5998 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6724 New:6725 Different native model ID Old: 6724 New:6725
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 6719 New:6720 Different native model ID Old: 6719 New:6720
+Found new data for entry: 5997 Different model ID Old: 6712 New:6711 Different native model ID Old: 6712 New:6711
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5998 Different model ID Old: 6725 New:6726 Different native model ID Old: 6725 New:6726
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 11322 Different bounding radius Old: 0.236000 New:0.372000 Different model ID Old: 11437 New:11435 Different native model ID Old: 11437 New:11435
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.306000 Different model ID Old: 6722 New:6719 Different native model ID Old: 6722 New:6719
+Found new data for entry: 5996 Different bounding radius Old: 0.306000 New:0.347000 Different model ID Old: 6719 New:6721 Different native model ID Old: 6719 New:6721
+Found new data for entry: 11322 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11435 New:11437 Different native model ID Old: 11435 New:11437
+Found new data for entry: 11323 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 11430 New:11433 Different native model ID Old: 11430 New:11433
+Found new data for entry: 5996 Different model ID Old: 6721 New:6722 Different native model ID Old: 6721 New:6722
+Found new data for entry: 5996 Different model ID Old: 6722 New:6721 Different native model ID Old: 6722 New:6721
+Found new data for entry: 5996 Different bounding radius Old: 0.347000 New:0.208000 Different model ID Old: 6721 New:6720 Different native model ID Old: 6721 New:6720
+Found new data for entry: 5996 Different bounding radius Old: 0.208000 New:0.347000 Different model ID Old: 6720 New:6722 Different native model ID Old: 6720 New:6722
+Found new data for entry: 6391 Different model ID Old: 6611 New:6610 Different native model ID Old: 6611 New:6610
+Found new data for entry: 4538 Different bounding radius Old: 0.193390 New:0.191610 Different combat reach Old: 0.828814 New:0.821186
+Found new data for entry: 683 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 683 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 683 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 681 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 683 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 6391 Different model ID Old: 6610 New:6611 Different native model ID Old: 6610 New:6611
+Found new data for entry: 683 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 683 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 11355 Different model ID Old: 11170 New:11168 Different native model ID Old: 11170 New:11168
+Found new data for entry: 11346 Different model ID Old: 11159 New:11158 Different native model ID Old: 11159 New:11158
+Found new data for entry: 11346 Different model ID Old: 11158 New:11160 Different native model ID Old: 11158 New:11160
+Found new data for entry: 11355 Different model ID Old: 11168 New:11170 Different native model ID Old: 11168 New:11170
+Found new data for entry: 11355 Different model ID Old: 11170 New:11167 Different native model ID Old: 11170 New:11167
+Found new data for entry: 2914 Different model ID Old: 1206 New:2958 Different native model ID Old: 1206 New:2958
+Found new data for entry: 683 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 683 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 6222 Different model ID Old: 6933 New:6934 Different native model ID Old: 6933 New:6934
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 6222 Different model ID Old: 6934 New:6933 Different native model ID Old: 6934 New:6933
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 11346 Different model ID Old: 11160 New:11158 Different native model ID Old: 11160 New:11158
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 2914 Different model ID Old: 2958 New:2957 Different native model ID Old: 2958 New:2957
+Found new data for entry: 2914 Different model ID Old: 2957 New:2958 Different native model ID Old: 2957 New:2958
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 7603 Different model ID Old: 6968 New:6967 Different native model ID Old: 6968 New:6967
+Found new data for entry: 7603 Different model ID Old: 6967 New:6968 Different native model ID Old: 6967 New:6968
+Found new data for entry: 683 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 681 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 681 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 681 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 5048 Different bounding radius Old: 0.661017 New:0.657627 Different combat reach Old: 0.826271 New:0.822034
+Found new data for entry: 681 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 681 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 681 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 681 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 683 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 681 Different bounding radius Old: 0.718195 New:0.712805 Different combat reach Old: 1.355085 New:1.344915
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4232 Different native model ID Old: 4233 New:4232
+Found new data for entry: 3840 Different model ID Old: 4232 New:4211 Different native model ID Old: 4232 New:4211
+Found new data for entry: 2914 Different model ID Old: 2958 New:1206 Different native model ID Old: 2958 New:1206
+Found new data for entry: 8886 Different model ID Old: 8173 New:8174 Different native model ID Old: 8173 New:8174
+Found new data for entry: 8886 Different model ID Old: 8174 New:8173 Different native model ID Old: 8174 New:8173
+Found new data for entry: 14876 Different model ID Old: 15000 New:14999 Different native model ID Old: 15000 New:14999
+Found new data for entry: 3840 Different model ID Old: 4211 New:4232 Different native model ID Old: 4211 New:4232
+Found new data for entry: 3840 Different model ID Old: 4232 New:4211 Different native model ID Old: 4232 New:4211
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4211 New:4233 Different native model ID Old: 4211 New:4233
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4211 Different native model ID Old: 4233 New:4211
+Found new data for entry: 6222 Different model ID Old: 6933 New:6935 Different native model ID Old: 6933 New:6935
+Found new data for entry: 6222 Different model ID Old: 6935 New:6932 Different native model ID Old: 6935 New:6932
+Found new data for entry: 2914 Different model ID Old: 1206 New:6303 Different native model ID Old: 1206 New:6303
+Found new data for entry: 5048 Different bounding radius Old: 0.657627 New:0.661017 Different combat reach Old: 0.822034 New:0.826271
+Found new data for entry: 2914 Different model ID Old: 6303 New:1206 Different native model ID Old: 6303 New:1206
+Found new data for entry: 14876 Different model ID Old: 14999 New:15000 Different native model ID Old: 14999 New:15000
+Found new data for entry: 14876 Different model ID Old: 15000 New:14999 Different native model ID Old: 15000 New:14999
+Found new data for entry: 14876 Different model ID Old: 14999 New:15000 Different native model ID Old: 14999 New:15000
+Found new data for entry: 14876 Different model ID Old: 15000 New:14999 Different native model ID Old: 15000 New:14999
+Found new data for entry: 14876 Different model ID Old: 14999 New:14998 Different native model ID Old: 14999 New:14998
+Found new data for entry: 14876 Different model ID Old: 14998 New:14999 Different native model ID Old: 14998 New:14999
+Found new data for entry: 2914 Different model ID Old: 1206 New:2958 Different native model ID Old: 1206 New:2958
+Found new data for entry: 2914 Different model ID Old: 2958 New:2957 Different native model ID Old: 2958 New:2957
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4211 New:4233 Different native model ID Old: 4211 New:4233
+Found new data for entry: 1108 Different bounding radius Old: 0.900508 New:0.905847 Different combat reach Old: 1.072034 New:1.078390
+Found new data for entry: 681 Different bounding radius Old: 0.712805 New:0.718195 Different combat reach Old: 1.344915 New:1.355085
+Found new data for entry: 2914 Different model ID Old: 2957 New:1206 Different native model ID Old: 2957 New:1206
+Found new data for entry: 3840 Different model ID Old: 4233 New:4234 Different native model ID Old: 4233 New:4234
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4234 New:4211 Different native model ID Old: 4234 New:4211
+Found new data for entry: 2914 Different model ID Old: 1206 New:6303 Different native model ID Old: 1206 New:6303
+Found new data for entry: 3840 Different model ID Old: 4211 New:4232 Different native model ID Old: 4211 New:4232
+Found new data for entry: 1064 Different bounding radius Old: 0.372000 New:0.236000 Different model ID Old: 4368 New:4369 Different native model ID Old: 4368 New:4369
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4232 New:4234 Different native model ID Old: 4232 New:4234
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 2914 Different model ID Old: 6303 New:1206 Different native model ID Old: 6303 New:1206
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 3840 Different model ID Old: 4234 New:4233 Different native model ID Old: 4234 New:4233
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.932542 Different combat reach Old: 1.103814 New:1.110170
+Found new data for entry: 1114 Different bounding radius Old: 0.932542 New:0.927203 Different combat reach Old: 1.110170 New:1.103814
+Found new data for entry: 2914 Different model ID Old: 1206 New:2958 Different native model ID Old: 1206 New:2958
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4232 Different native model ID Old: 4233 New:4232
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4232 New:4233 Different native model ID Old: 4232 New:4233
+Found new data for entry: 1563 Different model ID Old: 794 New:796 Different native model ID Old: 794 New:796
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4211 Different native model ID Old: 4233 New:4211
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4211 New:4234 Different native model ID Old: 4211 New:4234
+Found new data for entry: 2914 Different model ID Old: 2958 New:2957 Different native model ID Old: 2958 New:2957
+Found new data for entry: 1114 Different bounding radius Old: 0.927203 New:0.943220 Different combat reach Old: 1.103814 New:1.122881 Different faction ID Old: 72 New:4
+Found new data for entry: 3840 Different model ID Old: 4234 New:4233 Different native model ID Old: 4234 New:4233
+Found new data for entry: 2914 Different model ID Old: 2957 New:1206 Different native model ID Old: 2957 New:1206
+Found new data for entry: 4624 Different model ID Old: 7103 New:7102 Different native model ID Old: 7103 New:7102
+Found new data for entry: 4624 Different model ID Old: 7102 New:7104 Different native model ID Old: 7102 New:7104
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4232 Different native model ID Old: 4233 New:4232
+Found new data for entry: 2914 Different model ID Old: 1206 New:2958 Different native model ID Old: 1206 New:2958
+Found new data for entry: 3840 Different bounding radius Old: 0.389000 New:0.306000 Different model ID Old: 4232 New:4233 Different native model ID Old: 4232 New:4233
+Found new data for entry: 2914 Different model ID Old: 2958 New:1206 Different native model ID Old: 2958 New:1206
+Found new data for entry: 4624 Different model ID Old: 7104 New:7102 Different native model ID Old: 7104 New:7102
+Found new data for entry: 5056 Different bounding radius Old: 0.564407 New:0.567797 Different combat reach Old: 0.564407 New:0.567797
+Found new data for entry: 2914 Different model ID Old: 1206 New:6303 Different native model ID Old: 1206 New:6303
+Found new data for entry: 3840 Different bounding radius Old: 0.306000 New:0.389000 Different model ID Old: 4233 New:4232 Different native model ID Old: 4233 New:4232
+Found new data for entry: 4624 Different model ID Old: 7102 New:7104 Different native model ID Old: 7102 New:7104
+Found new data for entry: 3840 Different model ID Old: 4232 New:4211 Different native model ID Old: 4232 New:4211
+Found new data for entry: 3840 Different model ID Old: 4211 New:4232 Different native model ID Old: 4211 New:4232
+Found new data for entry: 4624 Different model ID Old: 7104 New:7102 Different native model ID Old: 7104 New:7102
+Found new data for entry: 5056 Different bounding radius Old: 0.567797 New:0.564407 Different combat reach Old: 0.567797 New:0.564407
+Found new data for entry: 5056 Different bounding radius Old: 0.564407 New:0.567797 Different combat reach Old: 0.564407 New:0.567797
+Found new data for entry: 5056 Different bounding radius Old: 0.567797 New:0.564407 Different combat reach Old: 0.567797 New:0.564407
+Found new data for entry: 2914 Different model ID Old: 6303 New:2958 Different native model ID Old: 6303 New:2958
+Found new data for entry: 4624 Different model ID Old: 7102 New:7103 Different native model ID Old: 7102 New:7103
+Found new data for entry: 3840 Different model ID Old: 4232 New:4211 Different native model ID Old: 4232 New:4211
+Found new data for entry: 3840 Different model ID Old: 4211 New:4232 Different native model ID Old: 4211 New:4232
+Found new data for entry: 2914 Different model ID Old: 2958 New:6303 Different native model ID Old: 2958 New:6303
+Found new data for entry: 2914 Different model ID Old: 6303 New:2957 Different native model ID Old: 6303 New:2957
+Found new data for entry: 4624 Different model ID Old: 7103 New:7102 Different native model ID Old: 7103 New:7102
+Found new data for entry: 4624 Different model ID Old: 7102 New:7104 Different native model ID Old: 7102 New:7104
+Found new data for entry: 4624 Different model ID Old: 7104 New:7103 Different native model ID Old: 7104 New:7103
+Found new data for entry: 4624 Different model ID Old: 7103 New:7104 Different native model ID Old: 7103 New:7104
+Found new data for entry: 4624 Different model ID Old: 7104 New:7102 Different native model ID Old: 7104 New:7102
+Found new data for entry: 4624 Different model ID Old: 7102 New:7104 Different native model ID Old: 7102 New:7104
+Found new data for entry: 4624 Different model ID Old: 7104 New:7102 Different native model ID Old: 7104 New:7102
+Found new data for entry: 1563 Different model ID Old: 796 New:794 Different native model ID Old: 796 New:794
+Found new data for entry: 1564 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 4461 New:4462 Different native model ID Old: 4461 New:4462
+Found new data for entry: 1565 Different bounding radius Old: 1.000000 New:0.208000 Different model ID Old: 796 New:1768 Different native model ID Old: 796 New:1768
+Found new data for entry: 1565 Different bounding radius Old: 0.208000 New:1.000000 Different model ID Old: 1768 New:796 Different native model ID Old: 1768 New:796
+Found new data for entry: 1653 Different bounding radius Old: 0.306000 New:0.208000 Different model ID Old: 2563 New:2564 Different native model ID Old: 2563 New:2564
+Found new data for entry: 1653 Different bounding radius Old: 0.208000 New:0.306000 Different model ID Old: 2564 New:2563 Different native model ID Old: 2564 New:2563
+Found new data for entry: 1563 Different model ID Old: 794 New:796 Different native model ID Old: 794 New:796
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=57; -- Entry 0 Native Model ID: 57 Faction ID: 5
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4570; -- Entry 587 Native Model ID: 4570 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4575; -- Entry 588 Native Model ID: 4575 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.336600,combat_reach=1.650000 WHERE modelid=4581; -- Entry 660 Native Model ID: 4581 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4632; -- Entry 667 Native Model ID: 4632 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.367200,combat_reach=1.800000 WHERE modelid=4580; -- Entry 671 Native Model ID: 4580 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7202; -- Entry 674 Native Model ID: 7202 Faction ID: 47
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7203; -- Entry 676 Native Model ID: 7203 Faction ID: 47
+UPDATE creature_model_info SET bounding_radius=1.428800,combat_reach=2.400000 WHERE modelid=416; -- Entry 678 Native Model ID: 416 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=1.562750,combat_reach=2.625000 WHERE modelid=536; -- Entry 679 Native Model ID: 536 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=1.830650,combat_reach=3.075000 WHERE modelid=11569; -- Entry 680 Native Model ID: 11569 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.718195,combat_reach=1.355085 WHERE modelid=598; -- Entry 681 Native Model ID: 598 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.795000,combat_reach=1.500000 WHERE modelid=320; -- Entry 682 Native Model ID: 320 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.712805,combat_reach=1.344915 WHERE modelid=2437; -- Entry 683 Native Model ID: 2437 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.914250,combat_reach=1.725000 WHERE modelid=633; -- Entry 684 Native Model ID: 633 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.233950,combat_reach=1.725000 WHERE modelid=788; -- Entry 685 Native Model ID: 788 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=1.233950,combat_reach=1.725000 WHERE modelid=788; -- Entry 686 Native Model ID: 788 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=1.394900,combat_reach=1.950000 WHERE modelid=11317; -- Entry 687 Native Model ID: 11317 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=0.972300,combat_reach=1.400000 WHERE modelid=12344; -- Entry 688 Native Model ID: 12344 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=1.180650,combat_reach=1.700000 WHERE modelid=601; -- Entry 689 Native Model ID: 601 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.000000 WHERE modelid=8797; -- Entry 690 Native Model ID: 8797 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=0.305560,combat_reach=1.000000 WHERE modelid=5561; -- Entry 691 Native Model ID: 5561 Faction ID: 91
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4572; -- Entry 694 Native Model ID: 4572 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4622; -- Entry 696 Native Model ID: 4622 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4573; -- Entry 697 Native Model ID: 4573 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.795000,combat_reach=1.500000 WHERE modelid=320; -- Entry 698 Native Model ID: 320 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4576; -- Entry 699 Native Model ID: 4576 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4577; -- Entry 701 Native Model ID: 4577 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4571; -- Entry 702 Native Model ID: 4571 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=1.294850,combat_reach=2.175000 WHERE modelid=655; -- Entry 709 Native Model ID: 655 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.950000 WHERE modelid=6704; -- Entry 710 Native Model ID: 6704 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.235000,combat_reach=1.000000 WHERE modelid=4626; -- Entry 721 Native Model ID: 4626 Faction ID: 31
+UPDATE creature_model_info SET bounding_radius=1.152750,combat_reach=2.175000 WHERE modelid=613; -- Entry 728 Native Model ID: 613 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.192500,combat_reach=2.250000 WHERE modelid=616; -- Entry 731 Native Model ID: 616 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.795000,combat_reach=1.500000 WHERE modelid=599; -- Entry 736 Native Model ID: 599 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.361400,combat_reach=1.625000 WHERE modelid=9582; -- Entry 740 Native Model ID: 9582 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=0.417000,combat_reach=1.875000 WHERE modelid=621; -- Entry 741 Native Model ID: 621 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=1.500000 WHERE modelid=7863; -- Entry 742 Native Model ID: 7863 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=1.875000,combat_reach=1.875000 WHERE modelid=7974; -- Entry 743 Native Model ID: 7974 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=2.250000,combat_reach=2.625000 WHERE modelid=7903; -- Entry 744 Native Model ID: 7903 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=2.625000,combat_reach=3.062500 WHERE modelid=7976; -- Entry 745 Native Model ID: 7976 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=2.950500,combat_reach=2.250000 WHERE modelid=625; -- Entry 746 Native Model ID: 625 Faction ID: 50
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=506; -- Entry 747 Native Model ID: 506 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.625500,combat_reach=2.250000 WHERE modelid=1995; -- Entry 750 Native Model ID: 1995 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.834000,combat_reach=3.000000 WHERE modelid=391; -- Entry 751 Native Model ID: 391 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=386; -- Entry 752 Native Model ID: 386 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4660; -- Entry 754 Native Model ID: 4660 Faction ID: 11
+UPDATE creature_model_info SET bounding_radius=0.187850,combat_reach=1.275000 WHERE modelid=628; -- Entry 755 Native Model ID: 628 Faction ID: 51
+UPDATE creature_model_info SET bounding_radius=1.748500,combat_reach=1.950000 WHERE modelid=2024; -- Entry 764 Native Model ID: 2024 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=2.017500,combat_reach=2.250000 WHERE modelid=9012; -- Entry 765 Native Model ID: 9012 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=2.017500,combat_reach=2.250000 WHERE modelid=697; -- Entry 766 Native Model ID: 697 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.914250,combat_reach=1.725000 WHERE modelid=632; -- Entry 767 Native Model ID: 632 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.914250,combat_reach=1.725000 WHERE modelid=633; -- Entry 768 Native Model ID: 633 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.660000,combat_reach=1.250000 WHERE modelid=336; -- Entry 769 Native Model ID: 336 Faction ID: 22
+UPDATE creature_model_info SET bounding_radius=1.033500,combat_reach=1.950000 WHERE modelid=614; -- Entry 772 Native Model ID: 614 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4616; -- Entry 780 Native Model ID: 4616 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.336600,combat_reach=1.650000 WHERE modelid=4635; -- Entry 781 Native Model ID: 4635 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.336600,combat_reach=1.650000 WHERE modelid=4623; -- Entry 783 Native Model ID: 4623 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.336600,combat_reach=1.650000 WHERE modelid=637; -- Entry 813 Native Model ID: 637 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=1.233950,combat_reach=1.725000 WHERE modelid=615; -- Entry 854 Native Model ID: 615 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=0.561000,combat_reach=1.062500 WHERE modelid=2543; -- Entry 858 Native Model ID: 2543 Faction ID: 22
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4497; -- Entry 861 Native Model ID: 4497 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4495; -- Entry 862 Native Model ID: 4495 Faction ID: 125
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4506; -- Entry 865 Native Model ID: 4506 Faction ID: 125
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4503; -- Entry 866 Native Model ID: 4503 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4508; -- Entry 867 Native Model ID: 4508 Faction ID: 125
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=506; -- Entry 871 Native Model ID: 506 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=11293; -- Entry 873 Native Model ID: 11293 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.625500,combat_reach=2.250000 WHERE modelid=1079; -- Entry 879 Native Model ID: 1079 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=1.044000,combat_reach=1.500000 WHERE modelid=705; -- Entry 905 Native Model ID: 705 Faction ID: 1878
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.625000 WHERE modelid=9571; -- Entry 922 Native Model ID: 9571 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4443; -- Entry 937 Native Model ID: 4443 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4446; -- Entry 939 Native Model ID: 4446 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4436; -- Entry 940 Native Model ID: 4436 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4444; -- Entry 941 Native Model ID: 4444 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4450; -- Entry 942 Native Model ID: 4450 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4459; -- Entry 978 Native Model ID: 4459 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4454; -- Entry 979 Native Model ID: 4454 Faction ID: 46
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4561; -- Entry 981 Native Model ID: 4561 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4560; -- Entry 987 Native Model ID: 4560 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.489600,combat_reach=2.400000 WHERE modelid=4634; -- Entry 1059 Native Model ID: 4634 Faction ID: 30
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=4369; -- Entry 1064 Native Model ID: 4369 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=2.353750,combat_reach=2.625000 WHERE modelid=9010; -- Entry 1081 Native Model ID: 9010 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.500000 WHERE modelid=807; -- Entry 1082 Native Model ID: 807 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.180650,combat_reach=2.125000 WHERE modelid=814; -- Entry 1084 Native Model ID: 814 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.914250,combat_reach=1.725000 WHERE modelid=698; -- Entry 1085 Native Model ID: 698 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.597350,combat_reach=2.875000 WHERE modelid=815; -- Entry 1087 Native Model ID: 815 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=1.875000 WHERE modelid=699; -- Entry 1088 Native Model ID: 699 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7201; -- Entry 1094 Native Model ID: 7201 Faction ID: 47
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7197; -- Entry 1096 Native Model ID: 7197 Faction ID: 47
+UPDATE creature_model_info SET bounding_radius=0.905847,combat_reach=1.078390 WHERE modelid=843; -- Entry 1108 Native Model ID: 843 Faction ID: 72
+UPDATE creature_model_info SET bounding_radius=0.943220,combat_reach=1.122881 WHERE modelid=845; -- Entry 1114 Native Model ID: 845 Faction ID: 4
+UPDATE creature_model_info SET bounding_radius=1.026950,combat_reach=1.725000 WHERE modelid=11567; -- Entry 1142 Native Model ID: 11567 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=1.160900,combat_reach=1.950000 WHERE modelid=610; -- Entry 1144 Native Model ID: 610 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=4377; -- Entry 1148 Native Model ID: 4377 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.972300,combat_reach=1.750000 WHERE modelid=1039; -- Entry 1150 Native Model ID: 1039 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.180650,combat_reach=2.125000 WHERE modelid=2548; -- Entry 1151 Native Model ID: 2548 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.180650,combat_reach=2.125000 WHERE modelid=833; -- Entry 1152 Native Model ID: 833 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4376; -- Entry 1382 Native Model ID: 4376 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=1868; -- Entry 1387 Native Model ID: 1868 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4372; -- Entry 1404 Native Model ID: 4372 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.200000,combat_reach=1.000000 WHERE modelid=901; -- Entry 1420 Native Model ID: 901 Faction ID: 188
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4437; -- Entry 1421 Native Model ID: 4437 Faction ID: 11
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4554; -- Entry 1443 Native Model ID: 4554 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.489600,combat_reach=2.400000 WHERE modelid=4661; -- Entry 1449 Native Model ID: 4661 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.533000,combat_reach=1.500000 WHERE modelid=1065; -- Entry 1488 Native Model ID: 1065 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.533000,combat_reach=1.500000 WHERE modelid=828; -- Entry 1489 Native Model ID: 828 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.522000,combat_reach=1.500000 WHERE modelid=16228; -- Entry 1490 Native Model ID: 16228 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.950000 WHERE modelid=4923; -- Entry 1491 Native Model ID: 4923 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=3.368000,combat_reach=3.200000 WHERE modelid=12812; -- Entry 1493 Native Model ID: 12812 Faction ID: 778
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=2.000000 WHERE modelid=3916; -- Entry 1549 Native Model ID: 3916 Faction ID: 38
+UPDATE creature_model_info SET bounding_radius=1.597350,combat_reach=2.300000 WHERE modelid=8802; -- Entry 1550 Native Model ID: 8802 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=1.597350,combat_reach=2.300000 WHERE modelid=2174; -- Entry 1551 Native Model ID: 2174 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=2.083500,combat_reach=3.000000 WHERE modelid=12342; -- Entry 1552 Native Model ID: 12342 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=0.148898,combat_reach=0.638136 WHERE modelid=4734; -- Entry 1553 Native Model ID: 4734 Faction ID: 15
+UPDATE creature_model_info SET bounding_radius=0.152458,combat_reach=0.653390 WHERE modelid=8808; -- Entry 1554 Native Model ID: 8808 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.050000,combat_reach=1.250000 WHERE modelid=838; -- Entry 1557 Native Model ID: 838 Faction ID: 72
+UPDATE creature_model_info SET bounding_radius=1.207500,combat_reach=1.437500 WHERE modelid=844; -- Entry 1558 Native Model ID: 844 Faction ID: 72
+UPDATE creature_model_info SET bounding_radius=4.725000,combat_reach=5.625000 WHERE modelid=792; -- Entry 1559 Native Model ID: 792 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=793; -- Entry 1561 Native Model ID: 793 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2562; -- Entry 1562 Native Model ID: 2562 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=796; -- Entry 1563 Native Model ID: 796 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=4462; -- Entry 1564 Native Model ID: 4462 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=796; -- Entry 1565 Native Model ID: 796 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2563; -- Entry 1653 Native Model ID: 2563 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=1.033500,combat_reach=1.950000 WHERE modelid=11452; -- Entry 1713 Native Model ID: 11452 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=3551; -- Entry 1894 Native Model ID: 3551 Faction ID: 123
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2535; -- Entry 1895 Native Model ID: 2535 Faction ID: 123
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.950000 WHERE modelid=4923; -- Entry 1907 Native Model ID: 4923 Faction ID: 74
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.000000 WHERE modelid=1141; -- Entry 2110 Native Model ID: 1141 Faction ID: 31
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7429; -- Entry 2499 Native Model ID: 7429 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=1.207500,combat_reach=1.437500 WHERE modelid=809; -- Entry 2521 Native Model ID: 809 Faction ID: 72
+UPDATE creature_model_info SET bounding_radius=1.170150,combat_reach=2.175000 WHERE modelid=1098; -- Entry 2529 Native Model ID: 1098 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.625000 WHERE modelid=9573; -- Entry 2544 Native Model ID: 9573 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=797; -- Entry 2546 Native Model ID: 797 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7208; -- Entry 2548 Native Model ID: 7208 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.974700,combat_reach=4.050000 WHERE modelid=4648; -- Entry 2549 Native Model ID: 4648 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.122000,combat_reach=1.000000 WHERE modelid=1072; -- Entry 2620 Native Model ID: 1072 Faction ID: 31
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7160; -- Entry 2625 Native Model ID: 7160 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.872500,combat_reach=3.750000 WHERE modelid=2178; -- Entry 2634 Native Model ID: 2178 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.500000 WHERE modelid=1038; -- Entry 2635 Native Model ID: 1038 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7177; -- Entry 2670 Native Model ID: 7177 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.374800,combat_reach=0.600000 WHERE modelid=1159; -- Entry 2676 Native Model ID: 1159 Faction ID: 47
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7179; -- Entry 2685 Native Model ID: 7179 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.500000 WHERE modelid=2957; -- Entry 2914 Native Model ID: 2957 Faction ID: 190
+UPDATE creature_model_info SET bounding_radius=0.700000,combat_reach=0.700000 WHERE modelid=2030; -- Entry 2992 Native Model ID: 2030 Faction ID: 154
+UPDATE creature_model_info SET bounding_radius=1.275000,combat_reach=1.275000 WHERE modelid=6087; -- Entry 3242 Native Model ID: 6087 Faction ID: 189
+UPDATE creature_model_info SET bounding_radius=0.674000,combat_reach=1.500000 WHERE modelid=178; -- Entry 3244 Native Model ID: 178 Faction ID: 189
+UPDATE creature_model_info SET bounding_radius=0.876200,combat_reach=1.950000 WHERE modelid=6076; -- Entry 3245 Native Model ID: 6076 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.775100,combat_reach=1.725000 WHERE modelid=1284; -- Entry 3246 Native Model ID: 1284 Faction ID: 189
+UPDATE creature_model_info SET bounding_radius=1.785000,combat_reach=2.125000 WHERE modelid=4473; -- Entry 3248 Native Model ID: 4473 Faction ID: 189
+UPDATE creature_model_info SET bounding_radius=0.912050,combat_reach=1.275000 WHERE modelid=1747; -- Entry 3255 Native Model ID: 1747 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=1.073000,combat_reach=1.500000 WHERE modelid=4442; -- Entry 3256 Native Model ID: 4442 Faction ID: 48
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4259; -- Entry 3296 Native Model ID: 4259 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.500000 WHERE modelid=1987; -- Entry 3300 Native Model ID: 1987 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=1372; -- Entry 3351 Native Model ID: 1372 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.795000,combat_reach=1.500000 WHERE modelid=1056; -- Entry 3415 Native Model ID: 1056 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=3856; -- Entry 3429 Native Model ID: 3856 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=3866; -- Entry 3477 Native Model ID: 3866 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=3865; -- Entry 3478 Native Model ID: 3865 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4261; -- Entry 3501 Native Model ID: 4261 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=0.550847,combat_reach=0.550847 WHERE modelid=4091; -- Entry 3631 Native Model ID: 4091 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.751100,combat_reach=1.050000 WHERE modelid=1744; -- Entry 3632 Native Model ID: 1744 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.912050,combat_reach=1.275000 WHERE modelid=949; -- Entry 3633 Native Model ID: 949 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.751100,combat_reach=1.050000 WHERE modelid=1746; -- Entry 3634 Native Model ID: 1746 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.912050,combat_reach=1.275000 WHERE modelid=1747; -- Entry 3636 Native Model ID: 1747 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=1.073000,combat_reach=1.500000 WHERE modelid=755; -- Entry 3637 Native Model ID: 755 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.419300,combat_reach=0.875000 WHERE modelid=4266; -- Entry 3638 Native Model ID: 4266 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.509150,combat_reach=1.062500 WHERE modelid=1751; -- Entry 3640 Native Model ID: 1751 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.900000,combat_reach=2.400000 WHERE modelid=1752; -- Entry 3641 Native Model ID: 1752 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.800000 WHERE modelid=5126; -- Entry 3653 Native Model ID: 5126 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=1.200000,combat_reach=1.750000 WHERE modelid=4203; -- Entry 3674 Native Model ID: 4203 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.169640,combat_reach=4.860001 WHERE modelid=1941; -- Entry 3678 Native Model ID: 1941 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.389000,combat_reach=1.500000 WHERE modelid=4216; -- Entry 3679 Native Model ID: 4216 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.262500,combat_reach=0.375000 WHERE modelid=4268; -- Entry 3680 Native Model ID: 4268 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.200000,combat_reach=1.000000 WHERE modelid=1924; -- Entry 3835 Native Model ID: 1924 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.389000,combat_reach=1.500000 WHERE modelid=4232; -- Entry 3840 Native Model ID: 4232 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.807000,combat_reach=1.500000 WHERE modelid=729; -- Entry 3853 Native Model ID: 729 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.685950,combat_reach=1.275000 WHERE modelid=657; -- Entry 3855 Native Model ID: 657 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.928050,combat_reach=1.725000 WHERE modelid=736; -- Entry 3859 Native Model ID: 736 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.850000,combat_reach=1.062500 WHERE modelid=11421; -- Entry 3862 Native Model ID: 11421 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.348000,combat_reach=1.000000 WHERE modelid=2446; -- Entry 3863 Native Model ID: 2446 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=1.150000,combat_reach=1.725000 WHERE modelid=1951; -- Entry 3864 Native Model ID: 1951 Faction ID: 15
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=3225; -- Entry 3873 Native Model ID: 3225 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=3229; -- Entry 3875 Native Model ID: 3229 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=3226; -- Entry 3877 Native Model ID: 3226 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.367200,combat_reach=1.800000 WHERE modelid=3222; -- Entry 3887 Native Model ID: 3222 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.000000 WHERE modelid=4589; -- Entry 3902 Native Model ID: 4589 Faction ID: 2
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2040; -- Entry 3974 Native Model ID: 2040 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.397800,combat_reach=1.950000 WHERE modelid=2041; -- Entry 3975 Native Model ID: 2041 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.000000 WHERE modelid=1418; -- Entry 4075 Native Model ID: 1418 Faction ID: 31
+UPDATE creature_model_info SET bounding_radius=0.100000,combat_reach=1.000000 WHERE modelid=2177; -- Entry 4076 Native Model ID: 2177 Faction ID: 188
+UPDATE creature_model_info SET bounding_radius=2.000000,combat_reach=2.500000 WHERE modelid=20180; -- Entry 4274 Native Model ID: 20180 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.367200,combat_reach=1.800000 WHERE modelid=2353; -- Entry 4275 Native Model ID: 2353 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2475; -- Entry 4280 Native Model ID: 2475 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2516; -- Entry 4281 Native Model ID: 2516 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2520; -- Entry 4283 Native Model ID: 2520 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2506; -- Entry 4285 Native Model ID: 2506 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2522; -- Entry 4286 Native Model ID: 2522 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2463; -- Entry 4287 Native Model ID: 2463 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2509; -- Entry 4289 Native Model ID: 2509 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2511; -- Entry 4290 Native Model ID: 2511 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2508; -- Entry 4291 Native Model ID: 2508 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2476; -- Entry 4292 Native Model ID: 2476 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2524; -- Entry 4294 Native Model ID: 2524 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2515; -- Entry 4295 Native Model ID: 2515 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2462; -- Entry 4298 Native Model ID: 2462 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2501; -- Entry 4299 Native Model ID: 2501 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2525; -- Entry 4300 Native Model ID: 2525 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=2500; -- Entry 4301 Native Model ID: 2500 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.425000,combat_reach=1.275000 WHERE modelid=2709; -- Entry 4304 Native Model ID: 2709 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2607; -- Entry 4306 Native Model ID: 2607 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=1.125000 WHERE modelid=5430; -- Entry 4308 Native Model ID: 5430 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=0.490000,combat_reach=2.100000 WHERE modelid=4642; -- Entry 4421 Native Model ID: 4642 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=3.528000,combat_reach=3.000000 WHERE modelid=2450; -- Entry 4422 Native Model ID: 2450 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.522000,combat_reach=2.250000 WHERE modelid=6097; -- Entry 4424 Native Model ID: 6097 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.490000,combat_reach=2.100000 WHERE modelid=6104; -- Entry 4427 Native Model ID: 6104 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.437500,combat_reach=1.875000 WHERE modelid=4758; -- Entry 4437 Native Model ID: 4758 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.490000,combat_reach=2.100000 WHERE modelid=6112; -- Entry 4440 Native Model ID: 6112 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.490000,combat_reach=2.100000 WHERE modelid=6103; -- Entry 4442 Native Model ID: 6103 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.625500,combat_reach=2.250000 WHERE modelid=652; -- Entry 4457 Native Model ID: 652 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=478; -- Entry 4458 Native Model ID: 478 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.834000,combat_reach=3.000000 WHERE modelid=5243; -- Entry 4461 Native Model ID: 5243 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2557; -- Entry 4505 Native Model ID: 2557 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=1902; -- Entry 4506 Native Model ID: 1902 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.389000,combat_reach=1.500000 WHERE modelid=2596; -- Entry 4510 Native Model ID: 2596 Faction ID: 80
+UPDATE creature_model_info SET bounding_radius=1.528800,combat_reach=1.300000 WHERE modelid=4713; -- Entry 4511 Native Model ID: 4713 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.764000,combat_reach=1.500000 WHERE modelid=4714; -- Entry 4512 Native Model ID: 4714 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.764000,combat_reach=1.500000 WHERE modelid=2453; -- Entry 4514 Native Model ID: 2453 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.455000,combat_reach=1.950000 WHERE modelid=6098; -- Entry 4516 Native Model ID: 6098 Faction ID: 154
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=1.500000 WHERE modelid=6096; -- Entry 4517 Native Model ID: 6096 Faction ID: 154
+UPDATE creature_model_info SET bounding_radius=0.420000,combat_reach=1.800000 WHERE modelid=6099; -- Entry 4518 Native Model ID: 6099 Faction ID: 154
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=1.500000 WHERE modelid=4647; -- Entry 4520 Native Model ID: 4647 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.455000,combat_reach=1.950000 WHERE modelid=6111; -- Entry 4523 Native Model ID: 6111 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=1.500000 WHERE modelid=4647; -- Entry 4525 Native Model ID: 4647 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=0.937500 WHERE modelid=5494; -- Entry 4526 Native Model ID: 5494 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.972300,combat_reach=1.050000 WHERE modelid=9589; -- Entry 4528 Native Model ID: 9589 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.348000,combat_reach=1.500000 WHERE modelid=1963; -- Entry 4530 Native Model ID: 1963 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.400200,combat_reach=1.725000 WHERE modelid=4453; -- Entry 4531 Native Model ID: 4453 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.452400,combat_reach=1.950000 WHERE modelid=6105; -- Entry 4532 Native Model ID: 6105 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.425000,combat_reach=1.275000 WHERE modelid=1535; -- Entry 4534 Native Model ID: 1535 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=1.176000,combat_reach=1.000000 WHERE modelid=704; -- Entry 4535 Native Model ID: 704 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.191610,combat_reach=0.821186 WHERE modelid=1955; -- Entry 4538 Native Model ID: 1955 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.210000,combat_reach=0.900000 WHERE modelid=1954; -- Entry 4539 Native Model ID: 1954 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2604; -- Entry 4540 Native Model ID: 2604 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.898500,combat_reach=1.875000 WHERE modelid=4754; -- Entry 4541 Native Model ID: 4754 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=2605; -- Entry 4542 Native Model ID: 2605 Faction ID: 67
+UPDATE creature_model_info SET bounding_radius=0.490000,combat_reach=2.100000 WHERE modelid=6103; -- Entry 4623 Native Model ID: 6103 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.321300,combat_reach=1.575000 WHERE modelid=7102; -- Entry 4624 Native Model ID: 7102 Faction ID: 121
+UPDATE creature_model_info SET bounding_radius=0.600000,combat_reach=1.500000 WHERE modelid=1131; -- Entry 4627 Native Model ID: 1131 Faction ID: 24
+UPDATE creature_model_info SET bounding_radius=0.517500,combat_reach=1.437500 WHERE modelid=2014; -- Entry 4798 Native Model ID: 2014 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.585000,combat_reach=1.625000 WHERE modelid=2021; -- Entry 4799 Native Model ID: 2021 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.575000,combat_reach=1.437500 WHERE modelid=4982; -- Entry 4805 Native Model ID: 4982 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=4762; -- Entry 4807 Native Model ID: 4762 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=2884; -- Entry 4809 Native Model ID: 2884 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.872500,combat_reach=3.750000 WHERE modelid=2901; -- Entry 4810 Native Model ID: 2901 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2887; -- Entry 4811 Native Model ID: 2887 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=2894; -- Entry 4812 Native Model ID: 2894 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=2877; -- Entry 4813 Native Model ID: 2877 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=2890; -- Entry 4814 Native Model ID: 2890 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.295800,combat_reach=1.062500 WHERE modelid=2835; -- Entry 4815 Native Model ID: 2835 Faction ID: 129
+UPDATE creature_model_info SET bounding_radius=0.625500,combat_reach=2.250000 WHERE modelid=4920; -- Entry 4818 Native Model ID: 4920 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.729750,combat_reach=2.625000 WHERE modelid=11293; -- Entry 4819 Native Model ID: 11293 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.542100,combat_reach=1.950000 WHERE modelid=3617; -- Entry 4820 Native Model ID: 3617 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.250000 WHERE modelid=981; -- Entry 4821 Native Model ID: 981 Faction ID: 350
+UPDATE creature_model_info SET bounding_radius=1.150000,combat_reach=1.437500 WHERE modelid=1001; -- Entry 4822 Native Model ID: 1001 Faction ID: 350
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.625000 WHERE modelid=9565; -- Entry 4823 Native Model ID: 9565 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.800000 WHERE modelid=1244; -- Entry 4824 Native Model ID: 1244 Faction ID: 350
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.800000 WHERE modelid=5026; -- Entry 4825 Native Model ID: 5026 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=4.000000 WHERE modelid=2836; -- Entry 4827 Native Model ID: 2836 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=2.000000,combat_reach=10.000000 WHERE modelid=2837; -- Entry 4829 Native Model ID: 2837 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=1.950000,combat_reach=5.200000 WHERE modelid=1816; -- Entry 4830 Native Model ID: 1816 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.650000,combat_reach=1.625000 WHERE modelid=4979; -- Entry 4831 Native Model ID: 4979 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.925750,combat_reach=1.725000 WHERE modelid=722; -- Entry 4850 Native Model ID: 722 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.046500,combat_reach=1.950000 WHERE modelid=721; -- Entry 4851 Native Model ID: 721 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.805000,combat_reach=1.500000 WHERE modelid=160; -- Entry 4852 Native Model ID: 160 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.207500,combat_reach=2.250000 WHERE modelid=1194; -- Entry 4853 Native Model ID: 1194 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.610000,combat_reach=3.000000 WHERE modelid=11165; -- Entry 4854 Native Model ID: 11165 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.408750,combat_reach=2.625000 WHERE modelid=11166; -- Entry 4855 Native Model ID: 11166 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.030000,combat_reach=1.500000 WHERE modelid=2234; -- Entry 4860 Native Model ID: 2234 Faction ID: 415
+UPDATE creature_model_info SET bounding_radius=0.210000,combat_reach=0.900000 WHERE modelid=1954; -- Entry 4861 Native Model ID: 1954 Faction ID: 411
+UPDATE creature_model_info SET bounding_radius=1.180650,combat_reach=1.700000 WHERE modelid=4486; -- Entry 4863 Native Model ID: 4486 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=0.525000,combat_reach=1.200000 WHERE modelid=5027; -- Entry 4887 Native Model ID: 5027 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=0.500000 WHERE modelid=1986; -- Entry 4953 Native Model ID: 1986 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.458340,combat_reach=1.500000 WHERE modelid=110; -- Entry 4978 Native Model ID: 110 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=0.661017,combat_reach=0.826271 WHERE modelid=4317; -- Entry 5048 Native Model ID: 4317 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.763950,combat_reach=1.375000 WHERE modelid=2996; -- Entry 5053 Native Model ID: 2996 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=0.750000 WHERE modelid=8172; -- Entry 5055 Native Model ID: 8172 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.564407,combat_reach=0.564407 WHERE modelid=3006; -- Entry 5056 Native Model ID: 3006 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.800000,combat_reach=1.000000 WHERE modelid=4767; -- Entry 5224 Native Model ID: 4767 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.800000,combat_reach=1.000000 WHERE modelid=4768; -- Entry 5225 Native Model ID: 4768 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.898500,combat_reach=1.875000 WHERE modelid=682; -- Entry 5235 Native Model ID: 682 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4780; -- Entry 5243 Native Model ID: 4780 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6672; -- Entry 5261 Native Model ID: 6672 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4769; -- Entry 5263 Native Model ID: 4769 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4776; -- Entry 5269 Native Model ID: 4776 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=19815; -- Entry 5353 Native Model ID: 19815 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6778; -- Entry 5385 Native Model ID: 6778 Faction ID: 53
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=4553; -- Entry 5391 Native Model ID: 4553 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6412; -- Entry 5646 Native Model ID: 6412 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6420; -- Entry 5648 Native Model ID: 6420 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6423; -- Entry 5649 Native Model ID: 6423 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6421; -- Entry 5650 Native Model ID: 6421 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=0.937500 WHERE modelid=4312; -- Entry 5755 Native Model ID: 4312 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.700000,combat_reach=0.700000 WHERE modelid=2706; -- Entry 5756 Native Model ID: 2706 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=1.345000,combat_reach=1.500000 WHERE modelid=1084; -- Entry 5761 Native Model ID: 1084 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=6.052500,combat_reach=6.750000 WHERE modelid=4256; -- Entry 5775 Native Model ID: 4256 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=4353; -- Entry 5814 Native Model ID: 4353 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=1.964600,combat_reach=3.300000 WHERE modelid=14402; -- Entry 5974 Native Model ID: 14402 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=2.098550,combat_reach=3.525000 WHERE modelid=11584; -- Entry 5976 Native Model ID: 11584 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=2.232500,combat_reach=3.750000 WHERE modelid=14401; -- Entry 5977 Native Model ID: 14401 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=2.500000,combat_reach=3.750000 WHERE modelid=11543; -- Entry 5978 Native Model ID: 11543 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.221000,combat_reach=1.500000 WHERE modelid=152; -- Entry 5979 Native Model ID: 152 Faction ID: 51
+UPDATE creature_model_info SET bounding_radius=0.100000,combat_reach=1.250000 WHERE modelid=10824; -- Entry 5982 Native Model ID: 10824 Faction ID: 73
+UPDATE creature_model_info SET bounding_radius=0.115000,combat_reach=1.437500 WHERE modelid=1105; -- Entry 5983 Native Model ID: 1105 Faction ID: 73
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.500000 WHERE modelid=8050; -- Entry 5984 Native Model ID: 8050 Faction ID: 38
+UPDATE creature_model_info SET bounding_radius=0.575000,combat_reach=1.725000 WHERE modelid=2714; -- Entry 5985 Native Model ID: 2714 Faction ID: 38
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=1.500000 WHERE modelid=6068; -- Entry 5988 Native Model ID: 6068 Faction ID: 413
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.000000 WHERE modelid=2743; -- Entry 5990 Native Model ID: 2743 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=1.805700,combat_reach=2.600000 WHERE modelid=798; -- Entry 5991 Native Model ID: 798 Faction ID: 49
+UPDATE creature_model_info SET bounding_radius=1.764000,combat_reach=1.500000 WHERE modelid=3026; -- Entry 5992 Native Model ID: 3026 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=1.500000 WHERE modelid=11410; -- Entry 5993 Native Model ID: 11410 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6722; -- Entry 5996 Native Model ID: 6722 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6711; -- Entry 5997 Native Model ID: 6711 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6726; -- Entry 5998 Native Model ID: 6726 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6730; -- Entry 5999 Native Model ID: 6730 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6734; -- Entry 6000 Native Model ID: 6734 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6713; -- Entry 6001 Native Model ID: 6713 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6742; -- Entry 6002 Native Model ID: 6742 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=6753; -- Entry 6003 Native Model ID: 6753 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7838; -- Entry 6004 Native Model ID: 7838 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=6794; -- Entry 6005 Native Model ID: 6794 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=6770; -- Entry 6006 Native Model ID: 6770 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7841; -- Entry 6007 Native Model ID: 7841 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=6789; -- Entry 6008 Native Model ID: 6789 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=6786; -- Entry 6009 Native Model ID: 6786 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=1913; -- Entry 6010 Native Model ID: 1913 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=2.600000 WHERE modelid=9017; -- Entry 6011 Native Model ID: 9017 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.259726,combat_reach=0.850000 WHERE modelid=525; -- Entry 6047 Native Model ID: 525 Faction ID: 128
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=4878; -- Entry 6145 Native Model ID: 4878 Faction ID: 188
+UPDATE creature_model_info SET bounding_radius=0.925750,combat_reach=1.725000 WHERE modelid=830; -- Entry 6206 Native Model ID: 830 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.563500,combat_reach=1.050000 WHERE modelid=764; -- Entry 6207 Native Model ID: 764 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=1.046500,combat_reach=1.950000 WHERE modelid=10285; -- Entry 6211 Native Model ID: 10285 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=3456; -- Entry 6212 Native Model ID: 3456 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.599000,combat_reach=1.250000 WHERE modelid=358; -- Entry 6218 Native Model ID: 358 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.198000,combat_reach=2.500000 WHERE modelid=11137; -- Entry 6219 Native Model ID: 11137 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.500000 WHERE modelid=4907; -- Entry 6220 Native Model ID: 4907 Faction ID: 91
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6932; -- Entry 6222 Native Model ID: 6932 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.387090,combat_reach=1.897500 WHERE modelid=6982; -- Entry 6223 Native Model ID: 6982 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6936; -- Entry 6224 Native Model ID: 6936 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=2.000000 WHERE modelid=5926; -- Entry 6225 Native Model ID: 5926 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.100000,combat_reach=2.200000 WHERE modelid=6890; -- Entry 6226 Native Model ID: 6890 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.100000,combat_reach=2.200000 WHERE modelid=6891; -- Entry 6227 Native Model ID: 6891 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.650000,combat_reach=1.650000 WHERE modelid=6774; -- Entry 6229 Native Model ID: 6774 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.125000,combat_reach=1.125000 WHERE modelid=8369; -- Entry 6230 Native Model ID: 8369 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=1.125000,combat_reach=1.125000 WHERE modelid=6889; -- Entry 6232 Native Model ID: 6889 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.350000,combat_reach=2.500000 WHERE modelid=6978; -- Entry 6233 Native Model ID: 6978 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.420000,combat_reach=3.000000 WHERE modelid=6979; -- Entry 6234 Native Model ID: 6979 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.834000,combat_reach=3.000000 WHERE modelid=1773; -- Entry 6243 Native Model ID: 1773 Faction ID: 18
+UPDATE creature_model_info SET bounding_radius=0.805000,combat_reach=1.500000 WHERE modelid=976; -- Entry 6329 Native Model ID: 976 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6611; -- Entry 6391 Native Model ID: 6611 Faction ID: 23
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6629; -- Entry 6407 Native Model ID: 6629 Faction ID: 23
+UPDATE creature_model_info SET bounding_radius=0.399050,combat_reach=1.150000 WHERE modelid=10256; -- Entry 6426 Native Model ID: 10256 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.000000 WHERE modelid=4629; -- Entry 6427 Native Model ID: 4629 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=146; -- Entry 6493 Native Model ID: 146 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=0.300000,combat_reach=1.500000 WHERE modelid=5379; -- Entry 6653 Native Model ID: 5379 Faction ID: 188
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=5710; -- Entry 6906 Native Model ID: 5710 Faction ID: 122
+UPDATE creature_model_info SET bounding_radius=1.207500,combat_reach=2.250000 WHERE modelid=5945; -- Entry 6910 Native Model ID: 5945 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=5711; -- Entry 6912 Native Model ID: 5711 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.416400,combat_reach=1.800000 WHERE modelid=6010; -- Entry 7011 Native Model ID: 6010 Faction ID: 415
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.000000 WHERE modelid=2488; -- Entry 7022 Native Model ID: 2488 Faction ID: 413
+UPDATE creature_model_info SET bounding_radius=0.438983,combat_reach=0.877966 WHERE modelid=5985; -- Entry 7078 Native Model ID: 5985 Faction ID: 413
+UPDATE creature_model_info SET bounding_radius=0.650000,combat_reach=1.950000 WHERE modelid=5497; -- Entry 7079 Native Model ID: 5497 Faction ID: 91
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6426; -- Entry 7246 Native Model ID: 6426 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6428; -- Entry 7247 Native Model ID: 6428 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.150000,combat_reach=0.450000 WHERE modelid=7470; -- Entry 7269 Native Model ID: 7470 Faction ID: 15
+UPDATE creature_model_info SET bounding_radius=1.408750,combat_reach=2.625000 WHERE modelid=11166; -- Entry 7320 Native Model ID: 11166 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.805000,combat_reach=1.500000 WHERE modelid=160; -- Entry 7321 Native Model ID: 160 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.455000,combat_reach=1.950000 WHERE modelid=11386; -- Entry 7327 Native Model ID: 11386 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.612500,combat_reach=2.625000 WHERE modelid=11384; -- Entry 7328 Native Model ID: 11384 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.525000,combat_reach=2.250000 WHERE modelid=11383; -- Entry 7329 Native Model ID: 11383 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.452400,combat_reach=1.950000 WHERE modelid=11385; -- Entry 7332 Native Model ID: 11385 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=1.764000,combat_reach=1.500000 WHERE modelid=6122; -- Entry 7334 Native Model ID: 6122 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.525000,combat_reach=2.250000 WHERE modelid=6100; -- Entry 7335 Native Model ID: 6100 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.612500,combat_reach=2.625000 WHERE modelid=11381; -- Entry 7337 Native Model ID: 11381 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=9783; -- Entry 7341 Native Model ID: 9783 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=7550; -- Entry 7343 Native Model ID: 7550 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.453100,combat_reach=1.725000 WHERE modelid=5231; -- Entry 7344 Native Model ID: 5231 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.512200,combat_reach=1.950000 WHERE modelid=7848; -- Entry 7346 Native Model ID: 7848 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.533000,combat_reach=1.500000 WHERE modelid=1065; -- Entry 7347 Native Model ID: 1065 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.533000,combat_reach=1.500000 WHERE modelid=1065; -- Entry 7348 Native Model ID: 1065 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=146; -- Entry 7353 Native Model ID: 146 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.221000,combat_reach=1.500000 WHERE modelid=11653; -- Entry 7363 Native Model ID: 11653 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=2.098550,combat_reach=3.525000 WHERE modelid=11533; -- Entry 7369 Native Model ID: 11533 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.800000,combat_reach=0.800000 WHERE modelid=4870; -- Entry 7370 Native Model ID: 4870 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=2.232500,combat_reach=3.750000 WHERE modelid=11536; -- Entry 7371 Native Model ID: 11536 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=2.500000,combat_reach=3.750000 WHERE modelid=11538; -- Entry 7372 Native Model ID: 11538 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.150000,combat_reach=1.875000 WHERE modelid=10826; -- Entry 7376 Native Model ID: 10826 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=2.350000,combat_reach=3.525000 WHERE modelid=11537; -- Entry 7379 Native Model ID: 11537 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.416400,combat_reach=1.800000 WHERE modelid=6010; -- Entry 7396 Native Model ID: 6010 Faction ID: 415
+UPDATE creature_model_info SET bounding_radius=0.409200,combat_reach=1.650000 WHERE modelid=6775; -- Entry 7572 Native Model ID: 6775 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=6968; -- Entry 7603 Native Model ID: 6968 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=6435; -- Entry 7605 Native Model ID: 6435 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=6768; -- Entry 7667 Native Model ID: 6768 Faction ID: 93
+UPDATE creature_model_info SET bounding_radius=0.974700,combat_reach=4.050000 WHERE modelid=6847; -- Entry 7668 Native Model ID: 6847 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6877; -- Entry 7669 Native Model ID: 6877 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6858; -- Entry 7670 Native Model ID: 6858 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=6870; -- Entry 7671 Native Model ID: 6870 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6853; -- Entry 7794 Native Model ID: 6853 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=6685; -- Entry 7795 Native Model ID: 6685 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=2.000000,combat_reach=2.500000 WHERE modelid=6980; -- Entry 7800 Native Model ID: 6980 Faction ID: 63
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=6846; -- Entry 7802 Native Model ID: 6846 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.383000,combat_reach=1.500000 WHERE modelid=21008; -- Entry 7826 Native Model ID: 21008 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.208000,combat_reach=1.500000 WHERE modelid=7911; -- Entry 7851 Native Model ID: 7911 Faction ID: 1575
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7042; -- Entry 7871 Native Model ID: 7042 Faction ID: 29
+UPDATE creature_model_info SET bounding_radius=0.600000,combat_reach=0.800000 WHERE modelid=6888; -- Entry 7897 Native Model ID: 6888 Faction ID: 594
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=7138; -- Entry 7998 Native Model ID: 7138 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=7273; -- Entry 8022 Native Model ID: 7273 Faction ID: 55
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.000000 WHERE modelid=7345; -- Entry 8095 Native Model ID: 7345 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=2.000000 WHERE modelid=7345; -- Entry 8120 Native Model ID: 7345 Faction ID: 37
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7337; -- Entry 8123 Native Model ID: 7337 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=2.350000,combat_reach=3.525000 WHERE modelid=11562; -- Entry 8296 Native Model ID: 11562 Faction ID: 45
+UPDATE creature_model_info SET bounding_radius=0.483600,combat_reach=1.950000 WHERE modelid=7844; -- Entry 8304 Native Model ID: 7844 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.850000,combat_reach=1.275000 WHERE modelid=7846; -- Entry 8477 Native Model ID: 7846 Faction ID: 152
+UPDATE creature_model_info SET bounding_radius=0.294950,combat_reach=1.275000 WHERE modelid=7949; -- Entry 8675 Native Model ID: 7949 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=2.250000 WHERE modelid=10543; -- Entry 8716 Native Model ID: 10543 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=3.000000 WHERE modelid=7970; -- Entry 8717 Native Model ID: 7970 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.451100,combat_reach=1.950000 WHERE modelid=6173; -- Entry 8718 Native Model ID: 6173 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.875000,combat_reach=1.250000 WHERE modelid=8173; -- Entry 8886 Native Model ID: 8173 Faction ID: 270
+UPDATE creature_model_info SET bounding_radius=0.800000,combat_reach=2.000000 WHERE modelid=1132; -- Entry 8996 Native Model ID: 1132 Faction ID: 554
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=8847; -- Entry 9559 Native Model ID: 8847 Faction ID: 120
+UPDATE creature_model_info SET bounding_radius=0.351900,combat_reach=1.725000 WHERE modelid=9027; -- Entry 9676 Native Model ID: 9027 Faction ID: 875
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.000000 WHERE modelid=4587; -- Entry 10467 Native Model ID: 4587 Faction ID: 2
+UPDATE creature_model_info SET bounding_radius=0.403000,combat_reach=1.500000 WHERE modelid=4162; -- Entry 10928 Native Model ID: 4162 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.684250,combat_reach=1.275000 WHERE modelid=11609; -- Entry 11318 Native Model ID: 11609 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.563500,combat_reach=1.050000 WHERE modelid=11610; -- Entry 11319 Native Model ID: 11610 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.750000,combat_reach=0.750000 WHERE modelid=11010; -- Entry 11320 Native Model ID: 11010 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=1.500000 WHERE modelid=2075; -- Entry 11321 Native Model ID: 2075 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=11437; -- Entry 11322 Native Model ID: 11437 Faction ID: 554
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=11433; -- Entry 11323 Native Model ID: 11433 Faction ID: 554
+UPDATE creature_model_info SET bounding_radius=0.236000,combat_reach=1.500000 WHERE modelid=11440; -- Entry 11324 Native Model ID: 11440 Faction ID: 554
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=11158; -- Entry 11346 Native Model ID: 11158 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=11167; -- Entry 11355 Native Model ID: 11167 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=11295; -- Entry 11383 Native Model ID: 11295 Faction ID: 28
+UPDATE creature_model_info SET bounding_radius=0.805000,combat_reach=1.500000 WHERE modelid=11611; -- Entry 11517 Native Model ID: 11611 Faction ID: 59
+UPDATE creature_model_info SET bounding_radius=0.450000,combat_reach=1.250000 WHERE modelid=2007; -- Entry 11519 Native Model ID: 2007 Faction ID: 554
+UPDATE creature_model_info SET bounding_radius=0.694500,combat_reach=0.750000 WHERE modelid=12310; -- Entry 11783 Native Model ID: 12310 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=1.389000,combat_reach=1.500000 WHERE modelid=11712; -- Entry 11784 Native Model ID: 11712 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=1.125000,combat_reach=1.125000 WHERE modelid=12333; -- Entry 11789 Native Model ID: 12333 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.585000,combat_reach=1.625000 WHERE modelid=11345; -- Entry 11790 Native Model ID: 11345 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.675000,combat_reach=1.875000 WHERE modelid=11338; -- Entry 11791 Native Model ID: 11338 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=1.011400,combat_reach=1.300000 WHERE modelid=12337; -- Entry 11794 Native Model ID: 12337 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.974700,combat_reach=4.050000 WHERE modelid=11755; -- Entry 11834 Native Model ID: 11755 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=3.000000 WHERE modelid=12292; -- Entry 12201 Native Model ID: 12292 Faction ID: 91
+UPDATE creature_model_info SET bounding_radius=1.600000,combat_reach=3.200000 WHERE modelid=12293; -- Entry 12203 Native Model ID: 12293 Faction ID: 91
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=2.600000 WHERE modelid=12309; -- Entry 12206 Native Model ID: 12309 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=7.500000 WHERE modelid=6737; -- Entry 12207 Native Model ID: 6737 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.271400,combat_reach=1.150000 WHERE modelid=2452; -- Entry 12216 Native Model ID: 2452 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.271400,combat_reach=1.150000 WHERE modelid=12345; -- Entry 12217 Native Model ID: 12345 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.450000,combat_reach=0.750000 WHERE modelid=12346; -- Entry 12218 Native Model ID: 12346 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=1.750000,combat_reach=2.625000 WHERE modelid=12347; -- Entry 12219 Native Model ID: 12347 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.250000,combat_reach=1.875000 WHERE modelid=12348; -- Entry 12220 Native Model ID: 12348 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.688850,combat_reach=1.437500 WHERE modelid=1145; -- Entry 12221 Native Model ID: 1145 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.748500,combat_reach=1.950000 WHERE modelid=3386; -- Entry 12223 Native Model ID: 3386 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=2.017500,combat_reach=2.250000 WHERE modelid=9014; -- Entry 12224 Native Model ID: 9014 Faction ID: 834
+UPDATE creature_model_info SET bounding_radius=1.300000,combat_reach=1.950000 WHERE modelid=12350; -- Entry 12225 Native Model ID: 12350 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=2.500000,combat_reach=3.750000 WHERE modelid=12389; -- Entry 12258 Native Model ID: 12389 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=2.250000 WHERE modelid=11649; -- Entry 12377 Native Model ID: 11649 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=1.000000,combat_reach=1.500000 WHERE modelid=146; -- Entry 12378 Native Model ID: 146 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=13952; -- Entry 12379 Native Model ID: 13952 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=12431; -- Entry 12380 Native Model ID: 12431 Faction ID: 21
+UPDATE creature_model_info SET bounding_radius=1.910000,combat_reach=3.750000 WHERE modelid=4426; -- Entry 12396 Native Model ID: 4426 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=0.750000 WHERE modelid=4449; -- Entry 12922 Native Model ID: 4449 Faction ID: 119
+UPDATE creature_model_info SET bounding_radius=0.520500,combat_reach=3.000000 WHERE modelid=2079; -- Entry 13141 Native Model ID: 2079 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.520500,combat_reach=3.000000 WHERE modelid=13098; -- Entry 13142 Native Model ID: 13098 Faction ID: 16
+UPDATE creature_model_info SET bounding_radius=0.200000,combat_reach=1.000000 WHERE modelid=1924; -- Entry 13321 Native Model ID: 1924 Faction ID: 188
+UPDATE creature_model_info SET bounding_radius=0.850000,combat_reach=2.125000 WHERE modelid=13210; -- Entry 13323 Native Model ID: 13210 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=4.167000,combat_reach=7.500000 WHERE modelid=13589; -- Entry 13596 Native Model ID: 13589 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.256864,combat_reach=0.587119 WHERE modelid=6368; -- Entry 13599 Native Model ID: 6368 Faction ID: 7
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=7125; -- Entry 13601 Native Model ID: 7125 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.520500,combat_reach=3.000000 WHERE modelid=9593; -- Entry 13743 Native Model ID: 9593 Faction ID: 90
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.000000 WHERE modelid=11686; -- Entry 13876 Native Model ID: 11686 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=1.218000,combat_reach=1.750000 WHERE modelid=14389; -- Entry 14356 Native Model ID: 14389 Faction ID: 1878
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=14531; -- Entry 14463 Native Model ID: 14531 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.275400,combat_reach=1.350000 WHERE modelid=14561; -- Entry 14508 Native Model ID: 14561 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=14993; -- Entry 14875 Native Model ID: 14993 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=14999; -- Entry 14876 Native Model ID: 14999 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=1.875000,combat_reach=1.875000 WHERE modelid=14994; -- Entry 14902 Native Model ID: 14994 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=14997; -- Entry 14905 Native Model ID: 14997 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=15003; -- Entry 14910 Native Model ID: 15003 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=15004; -- Entry 14911 Native Model ID: 15004 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=15210; -- Entry 15080 Native Model ID: 15210 Faction ID: 1574
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.000000 WHERE modelid=15303; -- Entry 15242 Native Model ID: 15303 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=11375; -- Entry 16096 Native Model ID: 11375 Faction ID: 85
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=2557; -- Entry 16399 Native Model ID: 2557 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=16299; -- Entry 16582 Native Model ID: 16299 Faction ID: 714
+UPDATE creature_model_info SET bounding_radius=0.372000,combat_reach=1.500000 WHERE modelid=16301; -- Entry 16584 Native Model ID: 16301 Faction ID: 1669
+UPDATE creature_model_info SET bounding_radius=0.210000,combat_reach=0.900000 WHERE modelid=15227; -- Entry 16598 Native Model ID: 15227 Faction ID: 1669
+UPDATE creature_model_info SET bounding_radius=0.409200,combat_reach=1.650000 WHERE modelid=16317; -- Entry 16599 Native Model ID: 16317 Faction ID: 1668
+UPDATE creature_model_info SET bounding_radius=0.825000,combat_reach=1.650000 WHERE modelid=18701; -- Entry 16863 Native Model ID: 18701 Faction ID: 954
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.000000 WHERE modelid=11686; -- Entry 18162 Native Model ID: 11686 Faction ID: 114
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=3.000000 WHERE modelid=15880; -- Entry 18729 Native Model ID: 15880 Faction ID: 14
+UPDATE creature_model_info SET bounding_radius=0.347000,combat_reach=1.500000 WHERE modelid=18666; -- Entry 18931 Native Model ID: 18666 Faction ID: 1756
+UPDATE creature_model_info SET bounding_radius=0.347222,combat_reach=1.500000 WHERE modelid=18855; -- Entry 18952 Native Model ID: 18855 Faction ID: 1663
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=1.500000 WHERE modelid=16998; -- Entry 19225 Native Model ID: 16998 Faction ID: 1759
+UPDATE creature_model_info SET bounding_radius=0.310000,combat_reach=1.000000 WHERE modelid=18712; -- Entry 19275 Native Model ID: 18712 Faction ID: 1729
+UPDATE creature_model_info SET bounding_radius=0.250000,combat_reach=0.500000 WHERE modelid=17188; -- Entry 19291 Native Model ID: 17188 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.250000,combat_reach=0.500000 WHERE modelid=17188; -- Entry 19358 Native Model ID: 17188 Faction ID: 35
+UPDATE creature_model_info SET bounding_radius=0.306000,combat_reach=1.500000 WHERE modelid=18889; -- Entry 19444 Native Model ID: 18889 Faction ID: 1756
+UPDATE creature_model_info SET bounding_radius=1.500000,combat_reach=3.000000 WHERE modelid=15880; -- Entry 21075 Native Model ID: 15880 Faction ID: 1720
+UPDATE creature_model_info SET bounding_radius=0.500000,combat_reach=1.000000 WHERE modelid=11686; -- Entry 21993 Native Model ID: 11686 Faction ID: 190

@@ -1,0 +1,575 @@
+Creature ID: 89 Spell IDs: 20546 22707 36492 
+Creature ID: 510 Spell IDs: 26639 31707 33395 36492 
+Creature ID: 1410 Spell IDs: 16583 
+Creature ID: 2614 Spell IDs: 38062 38067 41941 
+Creature ID: 2615 Spell IDs: 38062 38063 38067 41941 
+Creature ID: 2630 Spell IDs: 3600 32184 
+Creature ID: 3907 Spell IDs: 32187 
+Creature ID: 4075 Spell IDs: 35509 
+Creature ID: 5355 Spell IDs: 11976 
+Creature ID: 5913 Spell IDs: 32184 
+Creature ID: 5923 Spell IDs: 8168 32187 
+Creature ID: 5925 Spell IDs: 8178 32188 45317 
+Creature ID: 6491 Spell IDs: 17251 
+Creature ID: 7399 Spell IDs: 10424 32184 
+Creature ID: 7402 Spell IDs: 10436 32186 
+Creature ID: 7466 Spell IDs: 32186 
+Creature ID: 7487 Spell IDs: 32188 
+Creature ID: 9637 Spell IDs: 15037 
+Creature ID: 10467 Spell IDs: 39609 
+Creature ID: 10928 Spell IDs: 1604 
+Creature ID: 11325 Spell IDs: 19231 
+Creature ID: 12922 Spell IDs: 20801 
+Creature ID: 14387 Spell IDs: 25139 
+Creature ID: 14822 Spell IDs: 23765 23767 
+Creature ID: 15218 Spell IDs: 42867 
+Creature ID: 15241 Spell IDs: 23973 38062 38182 
+Creature ID: 15242 Spell IDs: 23973 38062 38066 38077 
+Creature ID: 15352 Spell IDs: 36213 36492 
+Creature ID: 15368 Spell IDs: 11816 25099 27999 
+Creature ID: 15430 Spell IDs: 33663 
+Creature ID: 15447 Spell IDs: 32188 
+Creature ID: 15463 Spell IDs: 32188 
+Creature ID: 15464 Spell IDs: 32184 
+Creature ID: 15474 Spell IDs: 32184 
+Creature ID: 15478 Spell IDs: 25512 32184 
+Creature ID: 15479 Spell IDs: 32184 
+Creature ID: 15480 Spell IDs: 25530 
+Creature ID: 15482 Spell IDs: 32186 
+Creature ID: 15484 Spell IDs: 32186 
+Creature ID: 15485 Spell IDs: 25554 32186 
+Creature ID: 15489 Spell IDs: 32187 
+Creature ID: 15497 Spell IDs: 25580 
+Creature ID: 15631 Spell IDs: 25824 
+Creature ID: 16121 Spell IDs: 27745 
+Creature ID: 16221 Spell IDs: 1604 
+Creature ID: 16341 Spell IDs: 12550 
+Creature ID: 16580 Spell IDs: 19643 
+Creature ID: 16742 Spell IDs: 32990 
+Creature ID: 16752 Spell IDs: 10100 16154 
+Creature ID: 16769 Spell IDs: 9613 11962 32783 32932 33390 35782 
+Creature ID: 16772 Spell IDs: 8646 
+Creature ID: 16805 Spell IDs: 35509 
+Creature ID: 16810 Spell IDs: 9613 16583 
+Creature ID: 16821 Spell IDs: 7791 
+Creature ID: 16826 Spell IDs: 3286 
+Creature ID: 16857 Spell IDs: 29147 31747 33922 37751 37752 
+Creature ID: 16863 Spell IDs: 1604 8599 31342 
+Creature ID: 16867 Spell IDs: 1604 11976 11978 
+Creature ID: 16870 Spell IDs: 33962 
+Creature ID: 16871 Spell IDs: 1604 8599 11976 
+Creature ID: 16873 Spell IDs: 6742 12550 32062 
+Creature ID: 16876 Spell IDs: 8599 34114 
+Creature ID: 16878 Spell IDs: 1604 8599 35570 39190 
+Creature ID: 16880 Spell IDs: 33909 
+Creature ID: 16896 Spell IDs: 29120 29121 29122 33796 
+Creature ID: 16898 Spell IDs: 29149 
+Creature ID: 16899 Spell IDs: 29149 
+Creature ID: 16901 Spell IDs: 1604 32722 
+Creature ID: 16903 Spell IDs: 1604 
+Creature ID: 16911 Spell IDs: 12550 
+Creature ID: 16927 Spell IDs: 1604 33896 33898 
+Creature ID: 16929 Spell IDs: 33896 33898 33911 
+Creature ID: 16932 Spell IDs: 1604 33781 
+Creature ID: 16933 Spell IDs: 1604 
+Creature ID: 16937 Spell IDs: 32734 34083 
+Creature ID: 16938 Spell IDs: 1604 31553 
+Creature ID: 16948 Spell IDs: 1604 7978 36192 
+Creature ID: 16952 Spell IDs: 15496 22911 
+Creature ID: 16964 Spell IDs: 8599 34080 36222 
+Creature ID: 16968 Spell IDs: 29147 31747 33922 33932 37751 37752 
+Creature ID: 16973 Spell IDs: 1604 31342 32022 33985 
+Creature ID: 17058 Spell IDs: 1604 16244 29460 33669 34186 
+Creature ID: 17088 Spell IDs: 8722 13878 
+Creature ID: 17128 Spell IDs: 30285 
+Creature ID: 17130 Spell IDs: 32019 
+Creature ID: 17131 Spell IDs: 1604 32019 32020 
+Creature ID: 17132 Spell IDs: 1604 32023 
+Creature ID: 17133 Spell IDs: 32021 
+Creature ID: 17134 Spell IDs: 2676 
+Creature ID: 17135 Spell IDs: 1604 9532 11431 13281 
+Creature ID: 17138 Spell IDs: 15496 
+Creature ID: 17139 Spell IDs: 10277 12024 
+Creature ID: 17141 Spell IDs: 3234 6278 
+Creature ID: 17142 Spell IDs: 17207 
+Creature ID: 17143 Spell IDs: 12550 
+Creature ID: 17144 Spell IDs: 3604 39215 
+Creature ID: 17146 Spell IDs: 12939 22744 31902 31999 34446 
+Creature ID: 17147 Spell IDs: 12939 16592 32000 
+Creature ID: 17148 Spell IDs: 31996 
+Creature ID: 17149 Spell IDs: 14873 
+Creature ID: 17150 Spell IDs: 33839 
+Creature ID: 17153 Spell IDs: 34425 
+Creature ID: 17154 Spell IDs: 21067 
+Creature ID: 17155 Spell IDs: 32012 
+Creature ID: 17156 Spell IDs: 1604 3019 13728 
+Creature ID: 17157 Spell IDs: 3617 31995 33840 
+Creature ID: 17159 Spell IDs: 32018 
+Creature ID: 17160 Spell IDs: 12550 31705 
+Creature ID: 17378 Spell IDs: 30436 
+Creature ID: 17407 Spell IDs: 30439 
+Creature ID: 17408 Spell IDs: 30438 
+Creature ID: 17539 Spell IDs: 32186 
+Creature ID: 17706 Spell IDs: 6268 
+Creature ID: 17870 Spell IDs: 38192 38205 39337 
+Creature ID: 17981 Spell IDs: 32026 36447 
+Creature ID: 18037 Spell IDs: 9613 11939 
+Creature ID: 18046 Spell IDs: 16856 35473 
+Creature ID: 18062 Spell IDs: 8599 32015 
+Creature ID: 18064 Spell IDs: 11986 12548 15038 
+Creature ID: 18065 Spell IDs: 10966 35509 
+Creature ID: 18077 Spell IDs: 12550 
+Creature ID: 18079 Spell IDs: 9739 31287 
+Creature ID: 18086 Spell IDs: 34726 34811 34812 
+Creature ID: 18087 Spell IDs: 9672 
+Creature ID: 18088 Spell IDs: 33245 34446 34787 
+Creature ID: 18089 Spell IDs: 32064 
+Creature ID: 18113 Spell IDs: 6660 
+Creature ID: 18114 Spell IDs: 9532 12550 
+Creature ID: 18117 Spell IDs: 8599 11978 
+Creature ID: 18118 Spell IDs: 6742 9532 23381 
+Creature ID: 18119 Spell IDs: 1604 11428 
+Creature ID: 18121 Spell IDs: 9613 
+Creature ID: 18122 Spell IDs: 1604 34788 34789 
+Creature ID: 18123 Spell IDs: 11978 34788 34789 
+Creature ID: 18124 Spell IDs: 1604 35235 
+Creature ID: 18125 Spell IDs: 1604 32396 35244 
+Creature ID: 18127 Spell IDs: 26886 32077 35273 
+Creature ID: 18128 Spell IDs: 35336 35394 
+Creature ID: 18130 Spell IDs: 3604 17008 23777 
+Creature ID: 18131 Spell IDs: 17008 23777 35333 
+Creature ID: 18132 Spell IDs: 35325 
+Creature ID: 18133 Spell IDs: 13443 35329 
+Creature ID: 18134 Spell IDs: 33628 
+Creature ID: 18136 Spell IDs: 1604 
+Creature ID: 18137 Spell IDs: 1604 35234 
+Creature ID: 18138 Spell IDs: 1604 
+Creature ID: 18197 Spell IDs: 11986 12058 12550 32152 
+Creature ID: 18202 Spell IDs: 1604 32087 32132 32133 32134 
+Creature ID: 18203 Spell IDs: 1604 11971 15496 
+Creature ID: 18204 Spell IDs: 31981 32132 32135 32137 
+Creature ID: 18205 Spell IDs: 32023 
+Creature ID: 18209 Spell IDs: 12548 
+Creature ID: 18211 Spell IDs: 32104 32105 
+Creature ID: 18213 Spell IDs: 39419 
+Creature ID: 18220 Spell IDs: 1604 30285 
+Creature ID: 18225 Spell IDs: 31959 31960 32170 34658 
+Creature ID: 18238 Spell IDs: 11971 15496 
+Creature ID: 18240 Spell IDs: 31261 32147 
+Creature ID: 18258 Spell IDs: 32019 32020 
+Creature ID: 18260 Spell IDs: 2676 
+Creature ID: 18281 Spell IDs: 35493 
+Creature ID: 18282 Spell IDs: 35361 
+Creature ID: 18334 Spell IDs: 32019 35509 
+Creature ID: 18340 Spell IDs: 1604 33962 
+Creature ID: 18351 Spell IDs: 16093 
+Creature ID: 18352 Spell IDs: 32248 
+Creature ID: 18358 Spell IDs: 35230 
+Creature ID: 18391 Spell IDs: 16592 33316 
+Creature ID: 18399 Spell IDs: 14873 15692 
+Creature ID: 18413 Spell IDs: 16093 
+Creature ID: 18417 Spell IDs: 39327 
+Creature ID: 18437 Spell IDs: 32423 
+Creature ID: 18438 Spell IDs: 32913 32914 
+Creature ID: 18450 Spell IDs: 26098 32924 
+Creature ID: 18452 Spell IDs: 10277 32908 
+Creature ID: 18453 Spell IDs: 1604 16561 32907 32924 
+Creature ID: 18454 Spell IDs: 6016 35509 
+Creature ID: 18455 Spell IDs: 1604 6535 11824 12058 32907 32924 35509 
+Creature ID: 18457 Spell IDs: 6660 
+Creature ID: 18460 Spell IDs: 32938 
+Creature ID: 18464 Spell IDs: 32942 
+Creature ID: 18465 Spell IDs: 32920 32939 32942 39449 
+Creature ID: 18466 Spell IDs: 32902 
+Creature ID: 18467 Spell IDs: 1604 32902 35509 
+Creature ID: 18468 Spell IDs: 32904 
+Creature ID: 18476 Spell IDs: 1604 32918 32919 
+Creature ID: 18477 Spell IDs: 1604 3149 32919 
+Creature ID: 18482 Spell IDs: 12548 32444 
+Creature ID: 18483 Spell IDs: 13730 
+Creature ID: 18488 Spell IDs: 1604 33423 33424 33425 
+Creature ID: 18533 Spell IDs: 11824 12058 32907 35509 
+Creature ID: 18549 Spell IDs: 36642 
+Creature ID: 18568 Spell IDs: 36671 
+Creature ID: 18584 Spell IDs: 1604 
+Creature ID: 18586 Spell IDs: 12550 
+Creature ID: 18595 Spell IDs: 1604 
+Creature ID: 18658 Spell IDs: 32623 
+Creature ID: 18660 Spell IDs: 32622 
+Creature ID: 18686 Spell IDs: 38401 
+Creature ID: 18704 Spell IDs: 29121 29122 
+Creature ID: 18705 Spell IDs: 29121 29122 
+Creature ID: 18716 Spell IDs: 9613 23017 
+Creature ID: 18718 Spell IDs: 32908 32915 
+Creature ID: 18719 Spell IDs: 9613 
+Creature ID: 18720 Spell IDs: 32736 32916 
+Creature ID: 18729 Spell IDs: 32785 33814 
+Creature ID: 18774 Spell IDs: 26946 28901 31171 31172 31173 31174 31175 38069 40516 41416 41417 41422 
+Creature ID: 18807 Spell IDs: 14307 22121 
+Creature ID: 18814 Spell IDs: 32995 
+Creature ID: 18827 Spell IDs: 33895 33974 
+Creature ID: 18828 Spell IDs: 33016 
+Creature ID: 18850 Spell IDs: 1604 
+Creature ID: 18855 Spell IDs: 33918 35778 
+Creature ID: 18865 Spell IDs: 36640 
+Creature ID: 18879 Spell IDs: 13321 34804 34814 36574 36650 
+Creature ID: 18880 Spell IDs: 23777 
+Creature ID: 18881 Spell IDs: 34525 35310 
+Creature ID: 18883 Spell IDs: 36574 36650 37176 
+Creature ID: 18884 Spell IDs: 35999 36036 
+Creature ID: 18909 Spell IDs: 12169 
+Creature ID: 18912 Spell IDs: 1604 35230 
+Creature ID: 18922 Spell IDs: 1604 
+Creature ID: 18943 Spell IDs: 12169 
+Creature ID: 18944 Spell IDs: 33420 
+Creature ID: 18945 Spell IDs: 33393 
+Creature ID: 18946 Spell IDs: 1604 22707 33420 
+Creature ID: 18948 Spell IDs: 1604 23511 33626 
+Creature ID: 18949 Spell IDs: 33417 33419 
+Creature ID: 18950 Spell IDs: 1604 23511 33626 
+Creature ID: 18952 Spell IDs: 13398 
+Creature ID: 18955 Spell IDs: 33271 
+Creature ID: 18965 Spell IDs: 15620 
+Creature ID: 18966 Spell IDs: 33564 33641 
+Creature ID: 18969 Spell IDs: 33570 33642 33643 
+Creature ID: 18970 Spell IDs: 10277 
+Creature ID: 18971 Spell IDs: 33417 33463 
+Creature ID: 18986 Spell IDs: 1604 33632 
+Creature ID: 18993 Spell IDs: 21176 
+Creature ID: 19007 Spell IDs: 32783 
+Creature ID: 19027 Spell IDs: 16093 
+Creature ID: 19030 Spell IDs: 16093 
+Creature ID: 19041 Spell IDs: 33382 
+Creature ID: 19048 Spell IDs: 15618 19643 
+Creature ID: 19052 Spell IDs: 45060 
+Creature ID: 19136 Spell IDs: 9053 
+Creature ID: 19141 Spell IDs: 33423 33424 33425 
+Creature ID: 19174 Spell IDs: 30983 35205 
+Creature ID: 19201 Spell IDs: 1604 
+Creature ID: 19217 Spell IDs: 34326 34656 
+Creature ID: 19232 Spell IDs: 3286 
+Creature ID: 19257 Spell IDs: 12674 33634 
+Creature ID: 19258 Spell IDs: 12674 22272 33634 
+Creature ID: 19259 Spell IDs: 1604 
+Creature ID: 19337 Spell IDs: 33838 
+Creature ID: 19354 Spell IDs: 16856 29460 
+Creature ID: 19364 Spell IDs: 1604 15618 19643 
+Creature ID: 19381 Spell IDs: 33799 33800 
+Creature ID: 19382 Spell IDs: 37490 
+Creature ID: 19384 Spell IDs: 33805 33806 33808 
+Creature ID: 19393 Spell IDs: 33815 
+Creature ID: 19395 Spell IDs: 33822 
+Creature ID: 19402 Spell IDs: 35235 35238 
+Creature ID: 19405 Spell IDs: 24933 25003 25024 27766 27771 33845 
+Creature ID: 19408 Spell IDs: 1604 15968 34086 
+Creature ID: 19410 Spell IDs: 6742 11639 11640 
+Creature ID: 19422 Spell IDs: 9053 33977 33985 34018 34019 34025 34073 
+Creature ID: 19423 Spell IDs: 1604 
+Creature ID: 19424 Spell IDs: 1604 31553 33924 33976 34368 
+Creature ID: 19442 Spell IDs: 8599 30478 34076 
+Creature ID: 19460 Spell IDs: 1604 
+Creature ID: 19501 Spell IDs: 15284 34116 
+Creature ID: 19502 Spell IDs: 34119 
+Creature ID: 19504 Spell IDs: 11436 
+Creature ID: 19519 Spell IDs: 32396 35238 35244 
+Creature ID: 19582 Spell IDs: 29266 
+Creature ID: 19664 Spell IDs: 35777 
+Creature ID: 19667 Spell IDs: 34427 
+Creature ID: 19668 Spell IDs: 34429 34650 36492 
+Creature ID: 19673 Spell IDs: 3617 12980 34432 
+Creature ID: 19681 Spell IDs: 34303 
+Creature ID: 19685 Spell IDs: 34443 
+Creature ID: 19686 Spell IDs: 34166 
+Creature ID: 19687 Spell IDs: 1604 
+Creature ID: 19707 Spell IDs: 34536 34583 
+Creature ID: 19720 Spell IDs: 1604 12939 34549 35509 
+Creature ID: 19725 Spell IDs: 1604 16093 
+Creature ID: 19726 Spell IDs: 1604 16093 
+Creature ID: 19727 Spell IDs: 34539 
+Creature ID: 19731 Spell IDs: 34166 
+Creature ID: 19732 Spell IDs: 13787 20825 
+Creature ID: 19734 Spell IDs: 35273 
+Creature ID: 19740 Spell IDs: 33804 
+Creature ID: 19762 Spell IDs: 38233 
+Creature ID: 19768 Spell IDs: 32011 
+Creature ID: 19779 Spell IDs: 36645 
+Creature ID: 19789 Spell IDs: 9672 34806 38033 
+Creature ID: 19792 Spell IDs: 35871 36476 
+Creature ID: 19796 Spell IDs: 11829 13878 32476 35190 
+Creature ID: 19801 Spell IDs: 36227 
+Creature ID: 19802 Spell IDs: 15496 22120 
+Creature ID: 19806 Spell IDs: 38311 
+Creature ID: 19825 Spell IDs: 33900 
+Creature ID: 19826 Spell IDs: 33900 
+Creature ID: 19833 Spell IDs: 1604 25809 25810 34701 
+Creature ID: 19840 Spell IDs: 34612 
+Creature ID: 19913 Spell IDs: 39312 
+Creature ID: 19921 Spell IDs: 1604 25809 25810 34701 
+Creature ID: 19940 Spell IDs: 35509 
+Creature ID: 19947 Spell IDs: 12544 13901 34787 
+Creature ID: 19948 Spell IDs: 34802 37786 
+Creature ID: 19952 Spell IDs: 9053 12544 
+Creature ID: 19957 Spell IDs: 37591 
+Creature ID: 19961 Spell IDs: 36208 36846 
+Creature ID: 19985 Spell IDs: 9532 12550 
+Creature ID: 19991 Spell IDs: 8599 15496 34932 
+Creature ID: 19992 Spell IDs: 12550 15038 15869 
+Creature ID: 19993 Spell IDs: 37592 37786 
+Creature ID: 19994 Spell IDs: 13787 20825 34932 
+Creature ID: 19995 Spell IDs: 15496 35262 36420 
+Creature ID: 19998 Spell IDs: 12550 26098 35245 
+Creature ID: 20021 Spell IDs: 13901 17327 35426 38881 38884 
+Creature ID: 20058 Spell IDs: 1604 13443 18950 
+Creature ID: 20076 Spell IDs: 34807 
+Creature ID: 20088 Spell IDs: 9080 34726 34812 
+Creature ID: 20089 Spell IDs: 34827 
+Creature ID: 20115 Spell IDs: 34871 
+Creature ID: 20134 Spell IDs: 33918 34446 35509 35778 
+Creature ID: 20196 Spell IDs: 1604 17008 23777 35335 
+Creature ID: 20197 Spell IDs: 35328 
+Creature ID: 20206 Spell IDs: 39216 
+Creature ID: 20210 Spell IDs: 33334 36471 36576 
+Creature ID: 20211 Spell IDs: 9613 34110 35784 37579 
+Creature ID: 20248 Spell IDs: 33918 35778 36477 
+Creature ID: 20286 Spell IDs: 34892 
+Creature ID: 20293 Spell IDs: 1604 35721 35722 35723 
+Creature ID: 20324 Spell IDs: 1604 35236 
+Creature ID: 20334 Spell IDs: 37597 
+Creature ID: 20387 Spell IDs: 35336 
+Creature ID: 20443 Spell IDs: 13730 15496 
+Creature ID: 20479 Spell IDs: 31690 31691 31698 35252 35362 
+Creature ID: 20484 Spell IDs: 12024 
+Creature ID: 20485 Spell IDs: 1604 12024 
+Creature ID: 20502 Spell IDs: 37985 
+Creature ID: 20561 Spell IDs: 31261 
+Creature ID: 20601 Spell IDs: 35737 35922 
+Creature ID: 20609 Spell IDs: 11975 35737 
+Creature ID: 20614 Spell IDs: 35737 36508 
+Creature ID: 20666 Spell IDs: 35740 
+Creature ID: 20668 Spell IDs: 35426 35464 
+Creature ID: 20670 Spell IDs: 35427 
+Creature ID: 20671 Spell IDs: 31279 36589 36590 
+Creature ID: 20673 Spell IDs: 19514 36594 
+Creature ID: 20682 Spell IDs: 25809 35509 39271 
+Creature ID: 20683 Spell IDs: 33346 36656 
+Creature ID: 20714 Spell IDs: 744 1604 
+Creature ID: 20726 Spell IDs: 12550 
+Creature ID: 20731 Spell IDs: 9053 
+Creature ID: 20732 Spell IDs: 9672 15091 35917 
+Creature ID: 20736 Spell IDs: 35502 
+Creature ID: 20749 Spell IDs: 37841 
+Creature ID: 20751 Spell IDs: 35570 
+Creature ID: 20764 Spell IDs: 35556 
+Creature ID: 20765 Spell IDs: 8599 
+Creature ID: 20766 Spell IDs: 12550 
+Creature ID: 20767 Spell IDs: 35513 
+Creature ID: 20771 Spell IDs: 32566 35426 
+Creature ID: 20796 Spell IDs: 34166 
+Creature ID: 20872 Spell IDs: 9613 
+Creature ID: 20878 Spell IDs: 1604 11972 37998 
+Creature ID: 20887 Spell IDs: 36227 
+Creature ID: 20925 Spell IDs: 18350 
+Creature ID: 20998 Spell IDs: 7951 
+Creature ID: 21021 Spell IDs: 9053 
+Creature ID: 21050 Spell IDs: 1604 36026 38365 38498 
+Creature ID: 21052 Spell IDs: 35997 
+Creature ID: 21057 Spell IDs: 37957 37987 
+Creature ID: 21059 Spell IDs: 36151 36168 38032 
+Creature ID: 21060 Spell IDs: 12058 36180 
+Creature ID: 21061 Spell IDs: 1604 8599 36006 36112 36247 
+Creature ID: 21073 Spell IDs: 36113 
+Creature ID: 21075 Spell IDs: 33240 
+Creature ID: 21097 Spell IDs: 36114 
+Creature ID: 21108 Spell IDs: 36405 36406 
+Creature ID: 21109 Spell IDs: 35923 
+Creature ID: 21114 Spell IDs: 36301 
+Creature ID: 21115 Spell IDs: 1604 36246 
+Creature ID: 21116 Spell IDs: 36178 
+Creature ID: 21123 Spell IDs: 32093 
+Creature ID: 21124 Spell IDs: 36274 
+Creature ID: 21134 Spell IDs: 36230 
+Creature ID: 21151 Spell IDs: 13360 
+Creature ID: 21173 Spell IDs: 39108 
+Creature ID: 21183 Spell IDs: 12548 15786 16006 
+Creature ID: 21189 Spell IDs: 33334 36471 
+Creature ID: 21195 Spell IDs: 22120 
+Creature ID: 21196 Spell IDs: 36380 37933 
+Creature ID: 21198 Spell IDs: 33900 
+Creature ID: 21200 Spell IDs: 9613 33900 
+Creature ID: 21207 Spell IDs: 36330 36431 
+Creature ID: 21210 Spell IDs: 36384 36393 
+Creature ID: 21233 Spell IDs: 36238 
+Creature ID: 21234 Spell IDs: 35132 
+Creature ID: 21238 Spell IDs: 8599 
+Creature ID: 21241 Spell IDs: 36421 
+Creature ID: 21249 Spell IDs: 15496 34427 
+Creature ID: 21252 Spell IDs: 33635 
+Creature ID: 21262 Spell IDs: 34427 
+Creature ID: 21267 Spell IDs: 36484 
+Creature ID: 21285 Spell IDs: 11642 37755 
+Creature ID: 21292 Spell IDs: 31261 
+Creature ID: 21293 Spell IDs: 37064 
+Creature ID: 21300 Spell IDs: 9613 32063 36241 
+Creature ID: 21302 Spell IDs: 9613 
+Creature ID: 21309 Spell IDs: 38169 
+Creature ID: 21310 Spell IDs: 36558 
+Creature ID: 21316 Spell IDs: 36658 36993 
+Creature ID: 21318 Spell IDs: 36618 
+Creature ID: 21324 Spell IDs: 36978 
+Creature ID: 21337 Spell IDs: 5916 
+Creature ID: 21380 Spell IDs: 31747 33922 33932 37752 
+Creature ID: 21381 Spell IDs: 21067 
+Creature ID: 21385 Spell IDs: 9672 33900 
+Creature ID: 21393 Spell IDs: 36795 
+Creature ID: 21394 Spell IDs: 36785 36790 36792 36793 36800 
+Creature ID: 21403 Spell IDs: 36804 
+Creature ID: 21408 Spell IDs: 37941 
+Creature ID: 21411 Spell IDs: 36823 
+Creature ID: 21413 Spell IDs: 36812 
+Creature ID: 21417 Spell IDs: 37277 
+Creature ID: 21419 Spell IDs: 1604 37791 37794 38093 
+Creature ID: 21423 Spell IDs: 13443 
+Creature ID: 21426 Spell IDs: 1604 
+Creature ID: 21427 Spell IDs: 1604 36246 
+Creature ID: 21441 Spell IDs: 36246 36951 
+Creature ID: 21447 Spell IDs: 37035 
+Creature ID: 21453 Spell IDs: 12550 37067 
+Creature ID: 21461 Spell IDs: 36919 37972 
+Creature ID: 21462 Spell IDs: 37945 
+Creature ID: 21477 Spell IDs: 37937 
+Creature ID: 21478 Spell IDs: 33912 
+Creature ID: 21648 Spell IDs: 38440 38502 
+Creature ID: 21656 Spell IDs: 34765 
+Creature ID: 21661 Spell IDs: 1604 8599 
+Creature ID: 21717 Spell IDs: 1604 8599 38338 
+Creature ID: 21718 Spell IDs: 9613 30945 38034 
+Creature ID: 21719 Spell IDs: 6660 
+Creature ID: 21720 Spell IDs: 1604 6742 12550 
+Creature ID: 21722 Spell IDs: 1604 38057 38775 
+Creature ID: 21736 Spell IDs: 1604 
+Creature ID: 21749 Spell IDs: 1604 
+Creature ID: 21759 Spell IDs: 37418 
+Creature ID: 21760 Spell IDs: 37373 37392 37403 
+Creature ID: 21766 Spell IDs: 29110 
+Creature ID: 21767 Spell IDs: 37446 
+Creature ID: 21795 Spell IDs: 37509 
+Creature ID: 21796 Spell IDs: 1604 13321 34876 36574 36650 37510 
+Creature ID: 21802 Spell IDs: 37645 
+Creature ID: 21809 Spell IDs: 1604 6533 15547 
+Creature ID: 21811 Spell IDs: 1604 
+Creature ID: 21814 Spell IDs: 17327 37614 
+Creature ID: 21846 Spell IDs: 35740 37758 
+Creature ID: 21849 Spell IDs: 31747 33922 33932 37752 
+Creature ID: 21852 Spell IDs: 38618 
+Creature ID: 21858 Spell IDs: 12024 
+Creature ID: 21859 Spell IDs: 31261 35740 37759 
+Creature ID: 21869 Spell IDs: 17327 31748 36545 36550 
+Creature ID: 21878 Spell IDs: 35570 
+Creature ID: 21879 Spell IDs: 16552 
+Creature ID: 21897 Spell IDs: 38356 
+Creature ID: 21898 Spell IDs: 37843 
+Creature ID: 21901 Spell IDs: 17008 23777 36659 
+Creature ID: 21902 Spell IDs: 38014 
+Creature ID: 21928 Spell IDs: 38167 
+Creature ID: 21944 Spell IDs: 37968 
+Creature ID: 21945 Spell IDs: 35426 37119 
+Creature ID: 21946 Spell IDs: 32566 
+Creature ID: 21947 Spell IDs: 32566 
+Creature ID: 21967 Spell IDs: 38155 
+Creature ID: 21979 Spell IDs: 38094 
+Creature ID: 21993 Spell IDs: 38111 38117 
+Creature ID: 21996 Spell IDs: 38117 38181 
+Creature ID: 21999 Spell IDs: 38180 
+Creature ID: 22016 Spell IDs: 36476 
+Creature ID: 22017 Spell IDs: 18972 34446 35190 
+Creature ID: 22021 Spell IDs: 36790 36792 36800 
+Creature ID: 22025 Spell IDs: 16588 
+Creature ID: 22044 Spell IDs: 744 
+Creature ID: 22059 Spell IDs: 38137 
+Creature ID: 22089 Spell IDs: 23973 38062 38083 
+Creature ID: 22090 Spell IDs: 38117 38288 
+Creature ID: 22095 Spell IDs: 1604 39000 
+Creature ID: 22100 Spell IDs: 33962 
+Creature ID: 22113 Spell IDs: 36623 36732 38289 38370 38372 
+Creature ID: 22115 Spell IDs: 1604 
+Creature ID: 22132 Spell IDs: 7951 
+Creature ID: 22144 Spell IDs: 12550 
+Creature ID: 22208 Spell IDs: 26799 
+Creature ID: 22213 Spell IDs: 41299 
+Creature ID: 22252 Spell IDs: 3617 15572 34802 
+Creature ID: 22253 Spell IDs: 1604 10966 15496 
+Creature ID: 22274 Spell IDs: 1604 38858 38859 38861 
+Creature ID: 22309 Spell IDs: 34425 
+Creature ID: 22337 Spell IDs: 36140 38021 
+Creature ID: 22341 Spell IDs: 1604 32000 39102 
+Creature ID: 22342 Spell IDs: 22744 31999 34446 39102 39123 
+Creature ID: 22343 Spell IDs: 1604 8599 31996 
+Creature ID: 22355 Spell IDs: 38950 38953 
+Creature ID: 22357 Spell IDs: 41280 41281 41283 41285 41286 41288 41339 41340 
+Creature ID: 22362 Spell IDs: 20801 
+Creature ID: 22363 Spell IDs: 9613 11962 13787 38980 39102 
+Creature ID: 22371 Spell IDs: 39256 39257 39259 
+Creature ID: 22375 Spell IDs: 35509 39068 
+Creature ID: 22376 Spell IDs: 38021 
+Creature ID: 22378 Spell IDs: 39043 
+Creature ID: 22387 Spell IDs: 6535 11824 12058 32907 32924 
+Creature ID: 22388 Spell IDs: 6016 
+Creature ID: 22394 Spell IDs: 1604 30639 
+Creature ID: 22396 Spell IDs: 8599 32009 
+Creature ID: 22407 Spell IDs: 32009 
+Creature ID: 22424 Spell IDs: 39167 39179 
+Creature ID: 22431 Spell IDs: 39277 39278 
+Creature ID: 22432 Spell IDs: 39283 39284 39294 39295 
+Creature ID: 22462 Spell IDs: 1604 12024 
+Creature ID: 22505 Spell IDs: 39300 39302 
+Creature ID: 22506 Spell IDs: 1604 
+Creature ID: 22507 Spell IDs: 39303 39304 39307 
+Creature ID: 22508 Spell IDs: 39380 39381 
+Creature ID: 22821 Spell IDs: 33334 
+Creature ID: 22822 Spell IDs: 33334 
+Creature ID: 23076 Spell IDs: 40056 40068 40109 41599 
+Creature ID: 23077 Spell IDs: 40112 40119 
+Creature ID: 23082 Spell IDs: 40075 41598 41603 
+Creature ID: 23093 Spell IDs: 40133 
+Creature ID: 23099 Spell IDs: 35509 40190 
+Creature ID: 23102 Spell IDs: 40141 40148 
+Creature ID: 23118 Spell IDs: 40182 40194 40196 
+Creature ID: 23141 Spell IDs: 41533 41540 
+Creature ID: 23169 Spell IDs: 1604 13443 35509 40770 
+Creature ID: 23188 Spell IDs: 1604 38289 38858 38859 38861 40517 
+Creature ID: 23264 Spell IDs: 1604 13443 33810 33811 
+Creature ID: 23269 Spell IDs: 40636 
+Creature ID: 23285 Spell IDs: 1604 29147 31747 33922 33932 37751 37752 
+Creature ID: 23286 Spell IDs: 1604 7279 40818 
+Creature ID: 23289 Spell IDs: 25900 29826 
+Creature ID: 23305 Spell IDs: 40743 
+Creature ID: 23311 Spell IDs: 39160 40714 40732 40735 40762 
+Creature ID: 23320 Spell IDs: 13901 
+Creature ID: 23324 Spell IDs: 1604 40743 
+Creature ID: 23326 Spell IDs: 1604 13443 33810 33811 
+Creature ID: 23340 Spell IDs: 40847 40850 40853 40890 
+Creature ID: 23342 Spell IDs: 40909 40984 40986 40988 
+Creature ID: 23344 Spell IDs: 40894 40992 40994 40996 
+Creature ID: 23345 Spell IDs: 40928 41006 41008 41012 
+Creature ID: 23346 Spell IDs: 40930 41014 41016 41018 
+Creature ID: 23348 Spell IDs: 40945 41020 41023 41025 
+Creature ID: 23357 Spell IDs: 40900 
+Creature ID: 23359 Spell IDs: 40929 
+Creature ID: 23360 Spell IDs: 40931 
+Creature ID: 23361 Spell IDs: 41064 
+Creature ID: 23376 Spell IDs: 25900 
+Creature ID: 23416 Spell IDs: 41284 
+Creature ID: 23434 Spell IDs: 38370 41440 41448 
+Creature ID: 23435 Spell IDs: 41440 
+Creature ID: 23440 Spell IDs: 36732 38861 41440 41448 
+Creature ID: 23467 Spell IDs: 24240 37816 39663 41528 
+Creature ID: 23501 Spell IDs: 1604 17008 23777 36659 
+Creature ID: 23909 Spell IDs: 42598 
+Creature ID: 24171 Spell IDs: 43313 
+Creature ID: 24222 Spell IDs: 43296 
+Creature ID: 24410 Spell IDs: 43691 
+Creature ID: 24411 Spell IDs: 43685 
+Creature ID: 24437 Spell IDs: 34427 43778 
+Creature ID: 24480 Spell IDs: 43906 43919 
+Creature ID: 25109 Spell IDs: 45252 
+Creature ID: 25110 Spell IDs: 45253 

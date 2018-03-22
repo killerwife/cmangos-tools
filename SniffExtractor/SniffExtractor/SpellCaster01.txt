@@ -1,0 +1,4 @@
+Creature ID: 3669 Spell IDs: 1787 9532 11294 
+Creature ID: 3671 Spell IDs: 13236 
+Creature ID: 3678 Spell IDs: 5232 13236 
+Creature ID: 3840 Spell IDs: 1787 11305 13236 
