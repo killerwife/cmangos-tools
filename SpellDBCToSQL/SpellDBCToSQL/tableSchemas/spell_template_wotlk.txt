@@ -183,7 +183,7 @@ CREATE TABLE `spell_template_wotlk` (
   `TotemCategory1` int(11) unsigned NOT NULL DEFAULT '0',
   `TotemCategory2` int(11) unsigned NOT NULL DEFAULT '0',
   `AreaId` int(11) unsigned NOT NULL DEFAULT '0',
-  `SchoolMask` int(11) unsigned NOT NULL DEFAULT '0',
+  `SchoolMask` int(11) unsigned NOT NULL DEFAULT '1',
   `RuneCostID` int(11) unsigned NOT NULL DEFAULT '0',
   `SpellDifficultyId` int(11) unsigned NOT NULL DEFAULT '0',  
   `IsServerSide` int(11) unsigned NOT NULL DEFAULT '0',

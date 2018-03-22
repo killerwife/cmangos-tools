@@ -173,7 +173,7 @@ CREATE TABLE `spell_template_tbc` (
   `TotemCategory1` int(11) unsigned NOT NULL DEFAULT '0',
   `TotemCategory2` int(11) unsigned NOT NULL DEFAULT '0',
   `AreaId` int(11) unsigned NOT NULL DEFAULT '0',
-  `SchoolMask` int(11) unsigned NOT NULL DEFAULT '0',
+  `SchoolMask` int(11) unsigned NOT NULL DEFAULT '1',
   `IsServerSide` int(11) unsigned NOT NULL DEFAULT '0',
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Export of .dbc Spell.dbc';
