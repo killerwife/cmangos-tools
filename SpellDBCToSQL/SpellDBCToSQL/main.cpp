@@ -203,7 +203,7 @@ int main()
     LocalData availableDbcLocalesWOTLK(build);
 
     BarGoLink bar(DBCFilesCount);
-    //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
+    LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sDungeonEncounterStore, dbcPath, "DungeonEncounter.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sFactionStore, dbcPath, "Faction.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sAreaGroupStore, dbcPath, "AreaGroup.dbc");
@@ -211,13 +211,13 @@ int main()
     uint32 availableDbcLocales = 0xFFFFFFFF;
     //LoadDBC(availableDbcLocales, bar, bad_dbc_files, sSpellStoreTBC, dbcPath, "SpellTBC.dbc", false);
     //LoadDBC(availableDbcLocales, bar, bad_dbc_files, sSpellStoreClassic, dbcPath, "SpellClassic.dbc", true);
-    LoadDBC(availableDbcLocales, bar, bad_dbc_files, sFactionStoreTBC, dbcPath, "FactionTBC.dbc", false);
+    //LoadDBC(availableDbcLocales, bar, bad_dbc_files, sFactionStoreTBC, dbcPath, "FactionTBC.dbc", false);
 
     printf("\n");
     DBCExport exporter;
     //exporter.ExportDBCToSQLClassic("spell_template_classic");
     //exporter.ExportDBCToSQLTBC("spell_template_tbc");
-    //exporter.ExportDBCToSQLWotlk("spell_template_wotlk");
+    exporter.ExportDBCToSQLWotlk("spell_template_wotlk");
     //exporter.ExportDungeonEncounters("dungeon_encounter_store");
     //exporter.ExportFactionsWOTLK("faction_store");
     //exporter.ExportFactionsTBC("faction_storeTBC");

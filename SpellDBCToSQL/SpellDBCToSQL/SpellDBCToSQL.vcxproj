@@ -148,6 +148,7 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>..\SpellDBCToSQL\connector;$(BOOST_LIBRARYDIR);$(BOOST_ROOT)\stage\$(Platform);$(BOOST_ROOT)\lib\$(Platform);$(BOOST_ROOT)\stage;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>mysqlcppconn.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
