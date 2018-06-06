@@ -9,10 +9,10 @@
 #include <cppconn/resultset.h>
 #include <cppconn/prepared_statement.h>
 
-#define EXAMPLE_HOST "localhost:2045"
-#define EXAMPLE_USER "root"
-#define EXAMPLE_PASS "deadlydeath"
-#define EXAMPLE_DB "spelldbc"
+#define TARGET_HOST "localhost:2045"
+#define TARGET_USER "root"
+#define TARGET_PASS "deadlydeath"
+#define TARGET_DB "spelldbc"
 
 DBCExport::DBCExport()
 {
@@ -38,10 +38,10 @@ void DBCExport::ExportDBCToSQLWotlk(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -293,10 +293,10 @@ void DBCExport::ExportDBCToSQLClassic(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -509,10 +509,10 @@ void DBCExport::ExportDBCToSQLTBC(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -756,10 +756,10 @@ void DBCExport::ExportDungeonEncounters(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -843,10 +843,10 @@ void DBCExport::ExportFactionsTBC(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -942,10 +942,10 @@ void DBCExport::ExportDBCGeneric(std::string tableName, std::function<void(std::
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
@@ -1011,10 +1011,10 @@ void DBCExport::ExportFactionsWOTLK(std::string tableName)
 {
     //sLog.WaitBeforeContinueIfNeed();
 
-    std::string url(EXAMPLE_HOST);
-    const std::string user(EXAMPLE_USER);
-    const std::string pass(EXAMPLE_PASS);
-    const std::string database(EXAMPLE_DB);
+    std::string url(TARGET_HOST);
+    const std::string user(TARGET_USER);
+    const std::string pass(TARGET_PASS);
+    const std::string database(TARGET_DB);
     PreparedStatementMaker maker;
     std::string statement;
     maker.MakePreparedStatement(tableName, statement);
