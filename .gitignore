@@ -63,3 +63,4 @@ SpellDBCToSQL/SpellDBCToSQL.VC.db
 *.ipdb
 *.iobj
 *.ipch
+*.pch
