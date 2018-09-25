@@ -16,7 +16,7 @@
 #define TARGET_HOST "localhost:2045"
 #define TARGET_USER "root"
 #define TARGET_PASS "deadlydeath"
-#define TARGET_DB "classicmangos"
+#define TARGET_DB "wotlkmangos"
 
 std::set<long> foundIds;
 
@@ -90,17 +90,27 @@ bool ProcessLine(std::string& line, std::ofstream& outputFile, std::auto_ptr<sql
 
 int main()
 {
+    std::ifstream inputConfig;
+    inputConfig.open("config.txt");
+    std::string inputFileName;
+    std::string outputFileName;
+    std::getline(inputConfig, inputFileName);
+    std::getline(inputConfig, outputFileName);
     std::ifstream inputFile;
     std::ofstream outputFile;
-    inputFile.open("Files/acid_classic.sql");
-    outputFile.open("Files/acid_classic_processed.sql");
+    inputFile.open(inputFileName);
+    outputFile.open(outputFileName);
     std::string line;
     bool processLine = false;
 
-    std::string url(TARGET_HOST);
-    const std::string user(TARGET_USER);
-    const std::string pass(TARGET_PASS);
-    const std::string database(TARGET_DB);
+    std::string url;
+    std::string user;
+    std::string pass;
+    std::string database;
+    std::getline(inputConfig, url);
+    std::getline(inputConfig, user);
+    std::getline(inputConfig, pass);
+    std::getline(inputConfig, database);
     try
     {
         sql::Driver* driver = get_driver_instance();
