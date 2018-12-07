@@ -553,6 +553,7 @@ snprintf(buff, sizeof(buff), "INSERT INTO %s (`Id`,  `Category`,  `Dispel`,  `Me
                 tableName.data(),
                 spellEntry->Id,
                 spellEntry->Category,
+                spellEntry->CastUI,
                 spellEntry->Dispel,
                 spellEntry->Mechanic,
                 spellEntry->Attributes,
@@ -592,6 +593,7 @@ snprintf(buff, sizeof(buff), "INSERT INTO %s (`Id`,  `Category`,  `Dispel`,  `Me
                 spellEntry->manaPerSecondPerLevel,
                 spellEntry->rangeIndex, // 40
                 spellEntry->speed,
+                spellEntry->modalNextSpell,
                 spellEntry->StackAmount,
                 spellEntry->Totem[0],
                 spellEntry->Totem[1],
@@ -716,13 +718,18 @@ snprintf(buff, sizeof(buff), "INSERT INTO %s (`Id`,  `Category`,  `Dispel`,  `Me
                 spellEntry->MaxAffectedTargets,
                 spellEntry->DmgClass,
                 spellEntry->PreventionType,
+                spellEntry->StanceBarOrder,
                 spellEntry->DmgMultiplier[0],
                 spellEntry->DmgMultiplier[1],
                 spellEntry->DmgMultiplier[2],
+                spellEntry->MinFactionId,
+                spellEntry->MinReputation,
+                spellEntry->RequiredAuraVision,
                 spellEntry->TotemCategory[0],
                 spellEntry->TotemCategory[1],
                 spellEntry->AreaId,
-                spellEntry->SchoolMask); // 172
+                spellEntry->SchoolMask,
+                    0);
 
                 
             std::string outputString(buff);
