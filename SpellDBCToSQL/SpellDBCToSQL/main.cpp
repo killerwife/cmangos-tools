@@ -203,7 +203,7 @@ int main()
     LocalData availableDbcLocalesWOTLK(build);
 
     BarGoLink bar(DBCFilesCount);
-    //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
+    LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sSpellStoreWOTLK, dbcPath, "SpellWOTLK.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sDungeonEncounterStore, dbcPath, "DungeonEncounter.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sFactionStore, dbcPath, "Faction.dbc");
     //LoadDBCWotlk(availableDbcLocalesWOTLK, bar, bad_dbc_files, sAreaGroupStore, dbcPath, "AreaGroup.dbc");
@@ -217,7 +217,7 @@ int main()
     DBCExport exporter;
     //exporter.ExportDBCGeneric("spell_template_classic", &DBCExport::ExportDBCToSQLClassic);
     //exporter.ExportDBCGeneric("spell_template_tbc", &DBCExport::ExportDBCToSQLTBC);
-    //exporter.ExportDBCGeneric("spell_template_wotlk", &DBCExport::ExportDBCToSQLWotlk);
+    exporter.ExportDBCGeneric("spell_template_wotlk", &DBCExport::ExportDBCToSQLWotlk);
     //exporter.ExportDBCGeneric("dungeon_encounter_store", &DBCExport::ExportDungeonEncounters);
     //exporter.ExportDBCGeneric("faction_store", &DBCExport::ExportFactionsWOTLK);
     //exporter.ExportDBCGeneric("faction_storeTBC", &DBCExport::ExportFactionsTBC);
