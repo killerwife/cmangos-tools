@@ -303,7 +303,7 @@ void DBCExport::ExportDBCToSQLClassic(std::string tableName)
     try {
 
         sql::Driver* driver = get_driver_instance();
-        std::auto_ptr<sql::Connection> con(driver->connect(url, user, pass));
+        std::unique_ptr<sql::Connection> con(driver->connect(url, user, pass));
         con->setSchema(database);
         std::auto_ptr<sql::Statement> stmt(con->createStatement());
         for (uint32 i = 1; i < 53090; ++i)
@@ -334,6 +334,7 @@ void DBCExport::ExportDBCToSQLClassic(std::string tableName)
                 spellEntry->Id,
                 spellEntry->School,
                 spellEntry->Category,
+                spellEntry->CastUI,
                 spellEntry->Dispel,
                 spellEntry->Mechanic,
                 spellEntry->Attributes,
@@ -368,6 +369,7 @@ void DBCExport::ExportDBCToSQLClassic(std::string tableName)
                 spellEntry->manaPerSecondPerLevel,
                 spellEntry->rangeIndex,
                 spellEntry->speed,
+                spellEntry->modalNextSpell,
                 spellEntry->StackAmount,
                 spellEntry->Totem[0],
                 spellEntry->Totem[1],
@@ -473,9 +475,14 @@ void DBCExport::ExportDBCToSQLClassic(std::string tableName)
                 spellEntry->MaxAffectedTargets,
                 spellEntry->DmgClass,
                 spellEntry->PreventionType,
+                spellEntry->StanceBarOrder,
                 spellEntry->DmgMultiplier[0],
                 spellEntry->DmgMultiplier[1],
-                spellEntry->DmgMultiplier[2]
+                spellEntry->DmgMultiplier[2],
+                spellEntry->MinFactionId,
+                spellEntry->MinReputation,
+                spellEntry->RequiredAuraVision,
+                    0
                 );
 
             std::string outputString(buff);
