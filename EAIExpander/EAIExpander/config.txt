@@ -1,6 +1,6 @@
-Files/acid_wotlk.sql
-Files/acid_wotlk_processed.sql
+Files/scriptdev2.sql
+Files/scriptdev2_processed.sql
 localhost:2045
 root
 deadlydeath
-wotlkmangos
+voamangos

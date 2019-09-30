@@ -18,6 +18,10 @@
 #define TARGET_PASS "deadlydeath"
 #define TARGET_DB "wotlkmangos"
 
+// #define TABLENAME "`creature_ai_scripts`"
+// #define TABLENAME "`creature_ai_texts`"
+#define TABLENAME "script_texts"
+
 std::set<long> foundIds;
 
 std::string escapeString(std::string string)
@@ -34,44 +38,56 @@ std::string escapeString(std::string string)
 
 bool ProcessLine(std::string& line, std::ofstream& outputFile, std::auto_ptr<sql::Statement>& stmt, bool end)
 {
+    if (line[0] == '-' && line[1] == '-')
+        return false;
     long ids[2];
-    ids[0] = -1;
+    ids[0] = 0;
     ids[1] = -1;
     std::string outputLine = "";
     bool readingNum = false;
     int idCount = 0;
     int curNum = 0;
+    bool sign = false;
     for (int i = 0; i < line.size(); ++i)
     {
         if (readingNum)
         {
+            if (line[i] == '-')
+                sign = true;
             if (line[i] >= '0' && line[i] <= '9')
             {
                 curNum = curNum * 10 + line[i] - '0';
             }
-            else if (line[i] == '\'')
+            // else if (line[i] == '\'') -- EAI file
+            else if (line[i] == ',')
             {
+                if (sign)
+                    curNum = -curNum;
                 ids[idCount++] = curNum;
                 readingNum = false;
                 curNum = 0;
-                if (idCount == 2)
+                //if (idCount == 2) -- creature_ai_scripts
+                if (idCount == 1)
                     break;
             }
         }
-        else if (line[i] == '\'')
+        // else if (line[i] == '\'') -- EAI file
+        else if (line[i] == '(')
             readingNum = true;
     }
-    if (ids[0] != -1 && ids[1] != -1)
+    // if (ids[0] != -1 && ids[1] != -1) - creature_ai_scripts
+    if (ids[0] != 0)
     {
-        if (foundIds.find(ids[1]) != foundIds.end())
+        if (foundIds.find(ids[0]) != foundIds.end())
             return true;
-        std::string statement = "SELECT * FROM creature_ai_scripts WHERE id = " + std::to_string(ids[0]) + " AND creature_id = " + std::to_string(ids[1]) + "";
+        // std::string statement = "SELECT * FROM creature_ai_scripts WHERE id = " + std::to_string(ids[0]) + " AND creature_id = " + std::to_string(ids[1]) + "";
+        std::string statement = "SELECT entry,content_default,sound,type,language,emote,broadcast_text_id,comment FROM " TABLENAME " WHERE entry = " + std::to_string(ids[0]) + "";
         std::unique_ptr<sql::ResultSet> result(stmt->executeQuery(statement));
         sql::ResultSetMetaData* meta = result->getMetaData();
         while (result->next())
         {
             outputLine += "(";
-            for (int i = 1; i <= meta->getColumnCount(); ++i)
+            for (unsigned int i = 1; i <= meta->getColumnCount(); ++i)
             {
                 if (i != 1)
                     outputLine += ",";
@@ -123,7 +139,7 @@ int main()
             bool lineProcessed = false;
             if (processLine)
             {
-                for (int i = line.size() - 1; i >= 0; ++i)
+                for (size_t i = line.size() - 1; i >= 0; ++i)
                 {
                     if (line[i] == ';') // only last character in a line
                         processLine = false;
@@ -132,7 +148,8 @@ int main()
                 }
                 lineProcessed = ProcessLine(line, outputFile, stmt, !processLine);
             }
-            else if (line.find("INSERT INTO `creature_ai_scripts`") != std::string::npos)
+            // else if (line.find("INSERT INTO `creature_ai_scripts`") != std::string::npos)
+            else if (line.find("INSERT INTO " TABLENAME) != std::string::npos)
                 processLine = true;
 
             if (!lineProcessed)
