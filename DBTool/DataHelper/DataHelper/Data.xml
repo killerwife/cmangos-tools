@@ -1,0 +1,6 @@
+<Data>
+    <DBScript>
+        <Command Name="SCRIPT_COMMAND_TALK" Description="Displays specific or random text" DataLong1="dbscript_string_template" DataLong2="" DataLong3="" BuddyEntry="" SearchRadius="" DataInt1="Text1" DataInt2="Text2" DataInt3="Text3" DataInt4="Text4" X="" Y="" Z="" Ori="">
+        <Command Name="SCRIPT_COMMAND_EMOTE" Description="Plays emote">
+    <\DBScript>
+<\Data>
