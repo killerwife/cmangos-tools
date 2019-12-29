@@ -8,10 +8,10 @@
 #include <set>
 #include <vector>
 
-#include <cppconn/driver.h>
-#include <cppconn/exception.h>
-#include <cppconn/resultset.h>
-#include <cppconn/prepared_statement.h>
+#include <jdbc/cppconn/driver.h>
+#include <jdbc/cppconn/exception.h>
+#include <jdbc/cppconn/resultset.h>
+#include <jdbc/cppconn/prepared_statement.h>
 
 #define TARGET_HOST "localhost:2045"
 #define TARGET_USER "root"
@@ -19,8 +19,8 @@
 #define TARGET_DB "wotlkmangos"
 
 // #define TABLENAME "`creature_ai_scripts`"
-// #define TABLENAME "`creature_ai_texts`"
-#define TABLENAME "script_texts"
+#define TABLENAME "`creature_ai_texts`"
+// #define TABLENAME "script_texts"
 
 std::set<long> foundIds;
 

@@ -1,6 +1,6 @@
-Files/scriptdev2.sql
-Files/scriptdev2_processed.sql
-localhost:2045
+Files/acid_tbc.sql
+Files/acid_tbc_processed.sql
+localhost:3306
 root
 deadlydeath
 voamangos

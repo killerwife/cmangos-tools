@@ -1029,26 +1029,26 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('766707','7667','0','11','100','1025','7000','9000','15000','25000','0','0','11','12740','0','0','0','0','0','0','0','0','0','0','Lady Sevine - Cast Summon Infernal Servant (Phase 2)'),
 ('766708','7667','0','11','100','1025','2000','5000','30000','45000','0','0','11','12741','0','0','0','0','0','0','0','0','0','0','Lady Sevine - Cast Curse of Weakness (Phase 2)'),
 ('766709','7667','9','11','100','1025','0','40','3400','4800','0','0','11','12739','1','256','0','0','0','0','0','0','0','0','Lady Sevine - Cast Shadow Bolt (Phase 2)'),
--- Servant of Razelikh
-('766801','7668','4','0','100','0','0','0','0','0','0','0','42','1','0','0','22','1','0','0','0','0','0','0','Servant of Razelikh - Set Invincible and Set Phase 1 on Aggro'),
-('766802','7668','2','5','100','1','5','0','10000','10000','0','0','11','10794','0','1','1','-1481','0','0','0','0','0','0','Servant of Razelikh - Cast Spirit Shock and TextEmote at 5% HP (Phase 1)'),
-('766803','7668','8','5','100','0','10805','-1','0','0','0','0','42','0','0','0','22','2','0','0','0','0','0','0','Servant of Razelikh - Remove Invincible and Set Phase 2 on Shackle Shatter Spellhit (Phase 1)'),
-('766804','7668','7','0','100','0','0','0','0','0','0','0','22','0','0','0','42','1','0','0','0','0','0','0','Servant of Razelikh - Set Phase 0 and Set Invincible on Evade'),
--- Servant of Grol
-('766901','7669','4','0','100','0','0','0','0','0','0','0','42','1','0','0','22','1','0','0','0','0','0','0','Servant of Grol - Set Invincible and Set Phase 1 on Aggro'),
-('766902','7669','2','5','100','1','5','0','10000','10000','0','0','11','10794','0','1','1','-1481','0','0','0','0','0','0','Servant of Grol - Cast Spirit Shock and TextEmote at 5% HP (Phase 1)'),
-('766903','7669','8','5','100','0','10834','-1','0','0','0','0','42','0','0','0','22','2','0','0','0','0','0','0','Servant of Grol - Remove Invincible and Set Phase 2 on Shackle Shatter Spellhit (Phase 1)'),
-('766904','7669','7','0','100','0','0','0','0','0','0','0','22','0','0','0','42','1','0','0','0','0','0','0','Servant of Grol - Set Phase 0 and Set Invincible on Evade'),
--- Servant of Allistarj
-('767001','7670','4','0','100','0','0','0','0','0','0','0','42','1','0','0','22','1','0','0','0','0','0','0','Servant of Allistarj - Set Invincible and Set Phase 1 on Aggro'),
-('767002','7670','2','5','100','1','5','0','10000','10000','0','0','11','10794','0','1','1','-1481','0','0','0','0','0','0','Servant of Allistarj - Cast Spirit Shock and TextEmote at 5% HP (Phase 1)'),
-('767003','7670','8','5','100','0','10835','-1','0','0','0','0','42','0','0','0','22','2','0','0','0','0','0','0','Servant of Allistarj - Remove Invincible and Set Phase 2 on Shackle Shatter Spellhit (Phase 1)'),
-('767004','7670','7','0','100','0','0','0','0','0','0','0','22','0','0','0','42','1','0','0','0','0','0','0','Servant of Allistarj - Set Phase 0 and Set Invincible on Evade'),
--- Servant of Sevine
-('767101','7671','4','0','100','0','0','0','0','0','0','0','42','1','0','0','22','1','0','0','0','0','0','0','Servant of Sevine - Set Invincible and Set Phase 1 on Aggro'),
-('767102','7671','2','5','100','1','5','0','10000','10000','0','0','11','10794','0','1','1','-1481','0','0','0','0','0','0','Servant of Sevine - Cast Spirit Shock and TextEmote at 5% HP (Phase 1)'),
-('767103','7671','8','5','100','0','10836','-1','0','0','0','0','42','0','0','0','22','2','0','0','0','0','0','0','Servant of Sevine - Remove Invincible and Set Phase 2 on Shackle Shatter Spellhit (Phase 1)'),
-('767104','7671','7','0','100','0','0','0','0','0','0','0','22','0','0','0','42','1','0','0','0','0','0','0','Servant of Sevine - Set Phase 0 and Set Invincible on Evade'),
+-- Servant of Razelikh 7668
+('766801','7668','11','0','100','0','0','0','0','0','0','0','42','1','0','0','0','0','0','0','0','0','0','0','Servant of Razelikh - Set Invincible on Spawn'),
+('766802','7668','2','0','100','0','5','0','0','0','0','0','11','10794','0','0','1','-1481','0','0','0','0','0','0','Servant of Razelikh - Cast Spirit Shock and Emote at 5% HP'),
+('766803','7668','8','0','100','0','10805','-1','0','0','0','0','42','0','0','0','37','0','0','0','0','0','0','0','Servant of Razelikh - Remove Invincible, Die on Shackle Shatter Spellhit'),
+('766804','7668','6','0','33','0','0','0','0','0','0','0','54','0','0','904','0','0','0','0','0','0','0','0','Servant of Razelikh - Say on Death'),
+-- Servant of Grol 7669
+('766901','7669','11','0','100','0','0','0','0','0','0','0','42','1','0','0','0','0','0','0','0','0','0','0','Servant of Grol - Set Invincible on Spawn'),
+('766902','7669','2','0','100','0','5','0','0','0','0','0','11','10794','0','0','1','-1481','0','0','0','0','0','0','Servant of Grol - Cast Spirit Shock and Emote at 5% HP'),
+('766903','7669','8','0','100','0','10834','-1','0','0','0','0','42','0','0','0','37','0','0','0','0','0','0','0','Servant of Grol - Remove Invincible, Die on Shackle Shatter Spellhit'),
+('766904','7669','6','0','33','0','0','0','0','0','0','0','54','0','0','904','0','0','0','0','0','0','0','0','Servant of Grol - Say on Death'),
+-- Servant of Allistarj 7670
+('767001','7670','11','0','100','0','0','0','0','0','0','0','42','1','0','0','0','0','0','0','0','0','0','0','Servant of Allistarj - Set Invincible on Spawn'),
+('767002','7670','2','0','100','0','5','0','0','0','0','0','11','10794','0','0','1','-1481','0','0','0','0','0','0','Servant of Allistarj - Cast Spirit Shock and Emote at 5% HP'),
+('767003','7670','8','0','100','0','10835','-1','0','0','0','0','42','0','0','0','37','0','0','0','0','0','0','0','Servant of Allistarj - Remove Invincible, Die on Shackle Shatter Spellhit'),
+('767004','7670','6','0','33','0','0','0','0','0','0','0','54','0','0','904','0','0','0','0','0','0','0','0','Servant of Allistarj - Say on Death'),
+-- Servant of Sevine 7671
+('767101','7671','11','0','100','0','0','0','0','0','0','0','42','1','0','0','0','0','0','0','0','0','0','0','Servant of Sevine - Set Invincible on Spawn'),
+('767102','7671','2','0','100','0','5','0','0','0','0','0','11','10794','0','0','1','-1481','0','0','0','0','0','0','Servant of Sevine - Cast Spirit Shock and Emote at 5% HP'),
+('767103','7671','8','0','100','0','10836','-1','0','0','0','0','42','0','0','0','37','0','0','0','0','0','0','0','Servant of Sevine - Remove Invincible, Die on Shackle Shatter Spellhit'),
+('767104','7671','6','0','33','0','0','0','0','0','0','0','54','0','0','904','0','0','0','0','0','0','0','0','Servant of Sevine - Say on Death'),
 -- Kirith the Damned
 ('772801','7728','0','0','100','1','4000','6000','20000','26000','0','0','11','12097','1','0','0','0','0','0','0','0','0','0','Kirith the Damned - Cast Pierce Armor'),
 ('772802','7728','0','0','100','1','2000','4000','9000','13000','0','0','11','12745','0','1','0','0','0','0','0','0','0','0','Kirith the Damned - Cast Mana Burn'),
@@ -7715,9 +7715,10 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('1060805','10608','16','0','100','1025','13864','10','18000','36000','0','0','11','13864','12','0','0','0','0','0','0','0','0','0','Scarlet Priest - Cast Power Word: Fortitude on Friendly Missing Buff'),
 ('1060806','10608','9','0','100','1025','0','40','3400','4800','0','0','11','15498','1','256','0','0','0','0','0','0','0','0','Scarlet Priest - Cast Holy Smite'),
 -- Chromie (10667) - NSR
--- Temporal Parasite
-('1071701','10717','0','0','100','1','2000','5000','10000','12000','0','0','11','11436','4','0','0','0','0','0','0','0','0','0','Temporal Parasite - Cast Slow'),
-('1071702','10717','6','0','40','0','0','0','0','0','0','0','12','10717','0','600000','0','0','0','0','0','0','0','0','Temporal Parasite - Spawn Temporal Parasite Death Summon on Death'),
+-- Temporal Parasite 10717 - Spawn-In Spell on Spawn, Check Spell for Summon on Death
+('1071701','10717','11','0','0','0','0','0','0','0','0','0','1','-1387','0','0','0','0','0','0','0','0','0','0','Temporal Parasite - Emote on Spawn'),
+('1071702','10717','6','0','40','0','0','0','0','0','0','0','12','10717','0','600000','0','0','0','0','0','0','0','0','Temporal Parasite - Spawn Temporal Parasite on Death'),
+('1071703','10717','0','0','100','1025','2000','5000','10000','12000','0','0','11','11436','4','32','0','0','0','0','0','0','0','0','Temporal Parasite - Cast Slow'),
 -- Mulgris Deepriver (10739) - NSR
 -- Janice Felstone (10778) - NSR
 -- Infected Squirrel (10779) - NSR
@@ -11899,7 +11900,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('715601','7156','2','0','100','1024','15','0','0','0','0','0','25','0','0','0','1','-47','0','0','0','0','0','0','Deadwood Den Watcher - Flee at 15% HP'),
 ('715602','7156','2','0','100','1024','50','0','0','0','0','0','39','25','0','0','1','-551','0','0','0','0','0','0','Deadwood Den Watcher - Call For Help, Emote at 50% HP'),
 ('715603','7156','0','0','100','1025','4000','11000','12000','15000','0','0','11','13583','4','33','0','0','0','0','0','0','0','0','Deadwood Den Watcher - Cast Curse of Deadwood'),
--- Deadwood Avenger - %s goes into a rage after seeing a friend fall in battle!
+-- Deadwood Avenger 7157 - %s goes into a rage after seeing a friend fall in battle!
 ('715701','7157','2','0','100','1025','30','0','120000','120000','0','0','11','8599','0','1','1','-106','0','0','0','0','0','0','Deadwood Avenger - Cast Enrage at 30% HP'),
 ('715702','7157','0','0','100','1025','4000','11000','12000','15000','0','0','11','13583','4','33','0','0','0','0','0','0','0','0','Deadwood Avenger - Cast Curse of Deadwood'),
 -- Deadwood Shaman 7158
@@ -11929,7 +11930,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('945401','9454','9','0','100','1','0','5','21000','26000','0','0','11','13443','1','0','0','0','0','0','0','0','0','0','Xavathras - Cast Rend'),
 ('945402','9454','2','0','100','1','30','0','120000','120000','0','0','11','8599','0','0','1','-106','0','0','0','0','0','0','Xavathras - Cast Enrage at 30% HP'),
 -- Chieftain Bloodmaw 9462
-('946201','9462','2','0','100','1024','15','0','0','0','0','0','25','0','0','0','1','-47','0','0','0','0','0','0','Chieftain Bloodmaw - Flee at 15% HP'),
+('946201','9462','2','0','100','1024','50','0','0','0','0','0','39','25','0','0','1','-551','0','0','0','0','0','0','Deadwood Den Watcher - Call For Help, Emote at 50% HP'),
 ('946202','9462','0','0','100','1025','4000','11000','12000','15000','0','0','11','13583','4','33','0','0','0','0','0','0','0','0','Chieftain Bloodmaw - Cast Curse of Deadwood'),
 -- Overlord Ror
 ('946401','9464','9','0','100','1','0','5','5000','8000','0','0','11','15793','1','0','0','0','0','0','0','0','0','0','Overlord Ror - Cast Maul'),
@@ -12075,6 +12076,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('523601','5236','4','0','10','0','0','0','0','0','0','0','1','-359','-360','-361','0','0','0','0','0','0','0','0','Gordunni Shaman - Say on Aggro'),
 ('523602','5236','27','0','100','1025','8134','1','15000','30000','0','0','11','8134','0','0','0','0','0','0','0','0','0','0','Gordunni Shaman - Cast Lightning Shield on Missing Buff'),
 ('523603','5236','14','0','100','1025','1200','40','14000','18000','0','0','11','8005','12','0','0','0','0','0','0','0','0','0','Gordunni Shaman - Cast Healing Wave on Friendly Missing HP'),
+('523604','5236','0','0','100','1024','4000','10000','15000','20000','0','0','11','8499','0','0','0','0','0','0','0','0','0','0','Gordunni Shaman - Cast Fire Nova Totem'),
 -- Gordunni Ogre Mage 5237
 ('523701','5237','4','0','100','0','0','0','0','0','0','0','57','2','35','0','0','0','0','0','0','0','0','0','Gordunni Ogre Mage - Enable Range Mode on Aggro'),
 ('523702','5237','4','0','10','0','0','0','0','0','0','0','1','-359','-360','-361','0','0','0','0','0','0','0','0','Gordunni Ogre Mage - Say on Aggro'),
@@ -12304,6 +12306,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('772701','7727','2','0','100','1024','15','0','0','0','0','0','25','0','0','0','1','-47','0','0','0','0','0','0','Grimtotem Shaman - Flee at 15% HP'),
 ('772702','7727','14','0','100','1025','1200','40','14000','17000','0','0','11','8005','12','1','0','0','0','0','0','0','0','0','Grimtotem Shaman - Cast Healing Wave on Friendly Missing HP'),
 ('772703','7727','0','0','100','1025','5000','9000','12000','15000','0','0','11','930','1','0','0','0','0','0','0','0','0','0','Grimtotem Shaman - Cast Chain Lightning'),
+('772704','7727','0','0','100','1024','4000','10000','15000','20000','0','0','11','8499','0','0','0','0','0','0','0','0','0','0','Grimtotem Shaman - Cast Fire Nova Totem'),
 -- Innkeeper Shyria (7736) - npc_innkeeper
 -- Innkeeper Greul (7737) - npc_innkeeper
 -- Troyas Moonbreeze (7764) - NSR
@@ -13310,7 +13313,8 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 -- Zannok Hidepiercer 12956
 -- Hive'Ashi Drone 13136
 -- Layo Starstrike 13220
--- Hive'Ashi Ambusher 13301
+-- Hive''Ashi Ambusher 13301
+('1330101','13301','11','0','100','0','0','0','0','0','0','0','1','-347','0','0','0','0','0','0','0','0','0','0','Hive''Ashi Ambusher - Emote on Spawn'),
 -- Highlord Demitrian 14347 - npc_highlord_demitrian
 -- Prince Thunderaan 14435
 ('1443501','14435','11','0','100','0','0','0','0','0','0','0','21','0','0','0','0','0','0','0','0','0','0','0','Prince Thunderaan - Prevent Combat Movement on Spawn'),
@@ -30765,7 +30769,7 @@ INSERT INTO `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`langu
 ('-344','%s faces southeast and whimpers before looking back at you. ','0','2','0','0','0','3695'),
 ('-345','%s''s death cry has stirred the nearby silithid hive.','0','2','0','0','0','Tortured Druid/Sentinel death'),
 ('-346','%s begins to summon in reinforcements!','0','2','0','0','0','Common Emote'),
--- Classic PLEASE RE-USE 347 - 352
+-- Classic PLEASE RE-USE 348 - 352
 ('-353','Me no run from $c like you!','0','0','0','0','0','Trogg Common Text'),
 ('-354','Yip! Me kill!','0','0','0','0','0','Trogg Common Text'),
 ('-355','The only good $r is a dead $r!','0','0','0','0','0','1205'),
@@ -31108,7 +31112,8 @@ INSERT INTO `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`langu
 ('-1327','%s gets really dizzy!','0','2','0','0','0','9554'),
 -- Classic PLEASE RE-USE 1328 - 1353
 ('-1354','HELP! ASSASSINS HAVE COME TO KILL ME!','0','1','0','0','0','11023'),
--- Classic PLEASE RE-USE 1355 - 1387
+-- Classic PLEASE RE-USE 1355 - 1386
+('-1387','%s is summoned through a temporal rift!','0','2','0','0','0','Temporal Parasite 10717'),
 ('-1388','%s emerges from the shadows to defend the cauldron!','0','2','0','0','0','0'),
 ('-1389','%s belches out a disgusting Bile Slime!','0','2','0','0','0','0'),
 ('-1390','%s explodes and releases several Bile Slimes!','0','2','0','0','0','0'),
@@ -31121,7 +31126,11 @@ INSERT INTO `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`langu
 ('-1397','My death matters little... the Hammer will still fall!','0','0','0','0','0','Common Text'),
 -- Classic PLEASE RE-USE 1398 - 1460
 ('-1461','Who dares steal my precious mount? You will pay for your insolence, mortal!','0','1','0','0','0','Lord Hel''nurath - Yell on Aggro'),
--- Classic PLEASE RE-USE 1462 - 1469
+-- Classic PLEASE RE-USE 1462 - 1465
+('-1466','Finally, the agony ceases....','0','0','0','0','0','7668,7669,7670,7671'),
+('-1467','Finally, released from his cursed grasp. Father, I come...','0','0','0','0','0','7668,7669,7670,7671'),
+('-1468','FREEEEEEEEEEDDOOOOMM!','0','0','0','0','0','7668,7669,7670,7671'),
+('-1469','The Defiler... must warn Thrall...','0','0','0','0','0','7668,7669,7670,7671'),
 ('-1470','Ooo,so strong! Happy Hallow''s End, $n!','0','0','0','0','0','6929'),
 ('-1471','Chugga-chugga,woo-woo! Happy Hallow''s End, $n!','0','0','0','0','0','11814'),
 ('-1472','I may have ninety-nine problems, but dancin'' ain''t one of them! Happy Hallow''s End, $n!','0','0','0','0','0','6746'),
@@ -31133,7 +31142,7 @@ INSERT INTO `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`langu
 ('-1478','You must save him!','0','0','0','0','0','11296'),
 ('-1479','I was devoured by Horgus! I can still feel his teeth upon me!','0','0','0','0','0','11296'),
 ('-1480','Beware Marduk! Beware, or your strength will wither.','0','0','0','0','0','11296'),
-('-1481','%s''s physical form is weakened. You notice the Stone of Binding near the creature is glowing! Strike now!','0','2','0','0','0','2681'),
+('-1481','%s''s physical form is weakened. You notice the Stone of Binding near the creature is glowing! Strike now!','0','2','0','0','0','7668,7669,7670,7671'),
 ('-1482','%s''s will falters.','0','2','0','0','0','10321'),
 ('-1483','This frozen land shall suffice for a start. Come to me, mortals - and I shall give you a quick and painful death.','0','6','0','0','0','Princess Tempestria'),
 ('-1484','If you mortals are all so craven, this will be much easier than I thought!','0','6','0','0','0','Princess Tempestria'),
@@ -32409,6 +32418,10 @@ INSERT INTO dbscript_random_templates (id, type, target_id, chance, comments) VA
 (900, 0, -24, 0, 'Hargin Mundar 1476 - Random OOC Texts'),
 (900, 0, -25, 0, 'Hargin Mundar 1476 - Random OOC Texts'),
 (900, 0, -26, 0, 'Hargin Mundar 1476 - Random OOC Texts'),
+(904, 0, -1466, 0, 'Servant of 7668,7669,7670,7671 - Death'),
+(904, 0, -1467, 0, 'Servant of 7668,7669,7670,7671 - Death'),
+(904, 0, -1468, 0, 'Servant of 7668,7669,7670,7671 - Death'),
+(904, 0, -1469, 0, 'Servant of 7668,7669,7670,7671 - Death'),
 (1003,0,-853,0,'Varimathras 2425 - Random Aggro Texts'),
 (1003,0,-854,0,'Varimathras 2425 - Random Aggro Texts'),
 (1003,0,-855,0,'Varimathras 2425 - Random Aggro Texts'),
