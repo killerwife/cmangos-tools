@@ -19,8 +19,8 @@
 #define TARGET_DB "wotlkmangos"
 
 // #define TABLENAME "`creature_ai_scripts`"
-#define TABLENAME "`creature_ai_texts`"
-// #define TABLENAME "script_texts"
+// #define TABLENAME "`creature_ai_texts`"
+#define TABLENAME "script_texts"
 
 std::set<long> foundIds;
 

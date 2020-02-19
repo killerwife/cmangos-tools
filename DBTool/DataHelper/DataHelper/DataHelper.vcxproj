@@ -88,8 +88,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Composable.cpp" />
+    <ClCompile Include="Composer.cpp" />
     <ClCompile Include="datahelper.cpp" />
+    <ClCompile Include="DbscriptWindow.cpp" />
+    <ClCompile Include="EAIWindow.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MovementWindow.cpp" />
     <ClCompile Include="SqlBuilder.cpp" />
     <ClCompile Include="XMLReader.cpp" />
   </ItemGroup>
@@ -98,11 +103,20 @@
   </ItemGroup>
   <ItemGroup>
     <QtUic Include="datahelper.ui" />
+    <QtUic Include="DbscriptWindow.ui" />
+    <QtUic Include="EAIWindow.ui" />
+    <QtUic Include="MovementWindow.ui" />
   </ItemGroup>
   <ItemGroup>
     <QtRcc Include="datahelper.qrc" />
   </ItemGroup>
   <ItemGroup>
+    <QtMoc Include="EAIWindow.h" />
+    <QtMoc Include="DbscriptWindow.h" />
+    <ClInclude Include="Composable.h" />
+    <ClInclude Include="Composer.h" />
+    <QtMoc Include="MovementWindow.h" />
+    <ClInclude Include="Defines.h" />
     <ClInclude Include="SqlBuilder.h" />
     <ClInclude Include="XMLReader.h" />
   </ItemGroup>

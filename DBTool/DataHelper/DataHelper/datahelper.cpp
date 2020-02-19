@@ -1,26 +1,27 @@
 #include "datahelper.h"
 #include "XMLReader.h"
+#include "DbscriptWindow.h"
 
 DataHelper::DataHelper(XMLReader& reader, QWidget* parent)
     : QMainWindow(parent), m_reader(reader)
 {
     ui.setupUi(this);
-    connect(ui.comboBoxDbscript, SIGNAL(currentIndexChanged(int)), this, SLOT(ComboBoxDbscriptChanged(int)));
-    connect(ui.pushButtonGenerateSQLDbscript, SIGNAL(released()), this, SLOT(PushButtonDbscriptReleased()));
-    m_dbscriptData = reader.GetDbscriptData();
-    for (int i = 0; i < m_dbscriptData.size(); ++i)
-        ui.comboBoxDbscript->addItem((std::to_string(i + 1) + ". " + m_dbscriptData[i]["Name"] + " " + m_dbscriptData[i]["Description"]).data());
+    m_composer.SetOutputWindow(ui.textEditOutput);
+    connect(ui.pushButtonDbscript, SIGNAL(released()), this, SLOT(OpenDbscriptWindow()));
 }
 
-void DataHelper::ComboBoxDbscriptChanged(int index)
+void DataHelper::OpenDbscriptWindow()
 {
-    if (index < m_dbscriptData.size())
-    {
-        ui.labelDataLong1->setText(m_dbscriptData[index]["DataLong1"].data());
-    }
+    DbscriptWindow* window = new DbscriptWindow(m_reader, &m_composer);
+    window->show();
 }
 
-void DataHelper::PushButtonDbscriptReleased()
+void DataHelper::OpenEAIWindow()
 {
-    printf("");
+
+}
+
+void DataHelper::OpenMovementWindow()
+{
+
 }

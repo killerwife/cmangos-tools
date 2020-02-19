@@ -2,6 +2,7 @@
 
 #include <QtWidgets/QMainWindow>
 #include "ui_datahelper.h"
+#include "Composer.h"
 
 class XMLReader;
 
@@ -13,11 +14,12 @@ public:
     DataHelper(XMLReader& reader, QWidget *parent = Q_NULLPTR);
 
 private slots:
-    void ComboBoxDbscriptChanged(int index);
-    void PushButtonDbscriptReleased();
+    void OpenDbscriptWindow();
+    void OpenEAIWindow();
+    void OpenMovementWindow();
 
 private:
     Ui::DataHelperClass ui;
     XMLReader& m_reader;
-    std::vector<std::map<std::string, std::string>> m_dbscriptData;
+    Composer m_composer;
 };
