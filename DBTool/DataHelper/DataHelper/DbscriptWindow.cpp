@@ -120,9 +120,9 @@ void DbscriptWindow::PushButtonGenerateReleased()
     data.dataInt[3] = ui.lineEditDataInt4->text().toInt();
 
     data.position.x = ui.lineEditX->text().toFloat();
-    data.position.y = ui.lineEditX->text().toFloat();
-    data.position.z = ui.lineEditX->text().toFloat();
-    data.position.ori = ui.lineEditX->text().toFloat();
+    data.position.y = ui.lineEditY->text().toFloat();
+    data.position.z = ui.lineEditZ->text().toFloat();
+    data.position.ori = ui.lineEditOri->text().toFloat();
 
     data.comment = ui.lineEditDBScriptComment->text().toStdString();
 
