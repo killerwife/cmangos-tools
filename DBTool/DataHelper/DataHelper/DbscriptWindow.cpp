@@ -69,7 +69,7 @@ std::string DbscriptWindow::GetData()
 {
     if (ui.comboBoxTable->currentIndex() > sizeof(tableNames) || m_generatedData.empty())
         return "";
-    std::string output = "INSERT INTO " + tableNames[ui.comboBoxTable->currentIndex()] + " VALUES(id, delay, priority, command, datalong, datalong2, datalong3, buddy_entry, search_radius, data_flags, dataint, dataint2, dataint3, dataint4, x, y, z, o, comments)\n";
+    std::string output = "INSERT INTO " + tableNames[ui.comboBoxTable->currentIndex()] + " (id, delay, priority, command, datalong, datalong2, datalong3, buddy_entry, search_radius, data_flags, dataint, dataint2, dataint3, dataint4, x, y, z, o, comments) VALUES\n";
     for (auto& data : m_generatedData)
         output += data.GetData() + "\n";
     return output;
@@ -178,5 +178,5 @@ std::string Dbscript::GetData()
 {
     return "(" + std::to_string(id) + "," + std::to_string(delay) + "," + std::to_string(priority) + "," + std::to_string(command) + "," + std::to_string(datalong[0]) + "," + std::to_string(datalong[1]) + "," +
         std::to_string(datalong[2]) + "," + std::to_string(buddyEntry) + "," + std::to_string(searchRadius) + "," + std::to_string(dataFlags) + "," + std::to_string(dataInt[0]) + "," + std::to_string(dataInt[1]) + "," + std::to_string(dataInt[2]) + "," +
-        std::to_string(dataInt[3]) + "," + std::to_string(position.x) + "," + std::to_string(position.y) + "," + std::to_string(position.z) + "," + std::to_string(position.ori) + ",'" + comment + "'," + ")\n";
+        std::to_string(dataInt[3]) + "," + std::to_string(position.x) + "," + std::to_string(position.y) + "," + std::to_string(position.z) + "," + std::to_string(position.ori) + ",'" + comment + "'" + "),\n";
 }
